@@ -1,6 +1,7 @@
 # Grupa6-Tim1
 
 ![Revalb - White with slogan](https://github.com/user-attachments/assets/6abdefe5-dd62-4d10-9460-171ae26f31bf)
+
 Revalb – Music Speaks, You Review
 
 U svijetu digitalne muzike, pronalazak kvalitetnih albuma i dijeljenje mišljenja nikada nije bilo jednostavnije. Revalb je inovativna web platforma koja povezuje muzičare, kritičare i slušaoce, omogućavajući interaktivno iskustvo ocjenjivanja i otkrivanja novih muzičkih izdanja.
