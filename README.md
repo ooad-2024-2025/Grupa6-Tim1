@@ -3,6 +3,8 @@
 ![Revalb - White with slogan](https://github.com/user-attachments/assets/6abdefe5-dd62-4d10-9460-171ae26f31bf)
 
 
+Prototip stranice: [https://embed.figma.com/proto/4OfDm7QqMRskeZPmF8v8lC/Revalb---prototype?page-id=0%3A1&node-id=2007-750&p=f&viewport=-185%2C397%2C0.05&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2007%3A750&embed-host=share"](https://www.figma.com/proto/4OfDm7QqMRskeZPmF8v8lC/Revalb---prototype?node-id=0-1&t=f2jpIWkEVmT49cF4-1)
+
 U digitalnoj eri muzike, Revalb je inovativna web platforma koja mijenja način na koji umjetnici i publika komuniciraju. Dizajniran kao prostor za recenziju muzičkih albuma, Revalb povezuje muzičare, slušaoce i kritičare u dinamičnom i intuitivnom okruženju.
 
 🎵 Za umjetnike:
@@ -39,8 +41,3 @@ Personalizovani korisnički i umjetnički profili
 Bez obzira da li ste muzičar u potrazi za publikom, recenzent sa stavom ili ljubitelj dobrog zvuka, Revalb je vaša nova početna stranica za muziku.
 
 🎶 Music Speaks, You Review! 🎶
-
-
-Prototip stranice:
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/4OfDm7QqMRskeZPmF8v8lC/Revalb---prototype?page-id=0%3A1&node-id=2007-750&p=f&viewport=-185%2C397%2C0.05&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2007%3A750&embed-host=share" allowfullscreen></iframe>
