@@ -33,8 +33,6 @@ Rang liste i algoritamski sistem preporuka
 Personalizovani korisnički i umjetnički profili
 
 🌐 Dodatne prednosti:
-✅ Višejezična podrška: bosanski, hrvatski, srpski, engleski
-✅ Newsletter sa preporukama prema vašim interesima
 ✅ Moderni responzivni dizajn za sve uređaje
 ✅ Visok nivo sigurnosti i dostupnosti (99% uptime, enkripcija podataka)
 
