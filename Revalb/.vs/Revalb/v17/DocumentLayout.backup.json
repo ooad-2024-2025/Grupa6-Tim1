@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb\\revalb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb\\revalb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb\\revalb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb\\revalb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb\\revalb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb\\Revalb\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Revalb\\Views\\Home\\Privacy.cshtml",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb\\Revalb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Revalb\\Views\\Home\\Index.cshtml",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb\\Revalb\\Program.cs",
               "RelativeDocumentMoniker": "Revalb\\Program.cs",
