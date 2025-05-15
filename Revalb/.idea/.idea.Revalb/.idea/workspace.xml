@@ -8,7 +8,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3eca32d-080d-46f3-852f-49d30538ea0c" name="Changes" comment="" />
+    <list default="true" id="5733860a-d6e9-4d93-8d2c-94f7e52e0a76" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Revalb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Revalb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +62,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Launch Settings Profile.Revalb: http.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,7 +110,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f3eca32d-080d-46f3-852f-49d30538ea0c" name="Changes" comment="" />
+      <changelist id="5733860a-d6e9-4d93-8d2c-94f7e52e0a76" name="Changes" comment="" />
       <created>1746742442629</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -116,6 +124,7 @@
       <workItem from="1747233964345" duration="3509000" />
       <workItem from="1747269859590" duration="169000" />
       <workItem from="1747300495668" duration="8061000" />
+      <workItem from="1747311878749" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="Spojeno na bazu podataka, napravljeni podeli">
       <option name="closed" value="true" />
