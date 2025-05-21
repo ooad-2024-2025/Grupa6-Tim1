@@ -333,3 +333,16 @@ D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb/Revalb/obj/Debug/ne
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/obj/Debug/net8.0/Revalb.genruntimeconfig.cache
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/obj/Debug/net8.0/ref/Revalb.dll
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/obj/Debug/net8.0/Revalb.csproj.CopyComplete
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.csproj.AssemblyReference.cache
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.GeneratedMSBuildEditorConfig.editorconfig
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.AssemblyInfo.cs
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.csproj.CoreCompileInputs.cache
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.MvcApplicationPartsAssemblyInfo.cs
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.MvcApplicationPartsAssemblyInfo.cache
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.RazorAssemblyInfo.cache
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.RazorAssemblyInfo.cs
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.sourcelink.json
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.dll
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/refint/Revalb.dll
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.pdb
