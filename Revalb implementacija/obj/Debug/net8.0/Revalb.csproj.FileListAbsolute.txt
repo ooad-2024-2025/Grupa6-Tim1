@@ -505,9 +505,9 @@ D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb/Revalb/obj/Debug/ne
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/scopedcss/bundle/Revalb.styles.css
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/scopedcss/projectbundle/Revalb.bundle.scp.css
-/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.csproj.CopyComplete
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.dll
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/refint/Revalb.dll
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.pdb
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.genruntimeconfig.cache
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/ref/Revalb.dll
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.csproj.CopyComplete
