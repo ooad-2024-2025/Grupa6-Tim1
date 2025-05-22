@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/scopedcss/projectbundle/Revalb.bundle.scp.css",
-      "PackagePath": "staticwebassets/Revalb.g6876mhza5.bundle.scp.css"
+      "PackagePath": "staticwebassets/Revalb.bundle.scp.css"
     },
     {
       "Id": "/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/wwwroot/css/site.css",
@@ -243,10 +243,6 @@
     {
       "Id": "/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
-    },
-    {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssets.props",

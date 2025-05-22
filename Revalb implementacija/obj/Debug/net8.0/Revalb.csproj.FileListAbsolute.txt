@@ -510,7 +510,4 @@ D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb/Revalb/obj/Debug/ne
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.pdb
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.genruntimeconfig.cache
 /home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/ref/Revalb.dll
-/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/bin/Debug/net8.0/Revalb.staticwebassets.endpoints.json
-/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/staticwebassets.build.endpoints.json
-/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.csproj.Up2Date
+/home/eldar33/RiderProjects/Grupa6-Tim1/Revalb/Revalb/Revalb implementacija/obj/Debug/net8.0/Revalb.csproj.CopyComplete
