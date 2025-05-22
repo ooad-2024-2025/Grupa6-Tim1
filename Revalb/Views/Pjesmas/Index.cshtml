@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Revalb.Models.Pjesma>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.naziv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Trajanje)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.redniBroj)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fajl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.idAlbum)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.naziv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Trajanje)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.redniBroj)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fajl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.idAlbum)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idPjesma">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.idPjesma">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.idPjesma">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

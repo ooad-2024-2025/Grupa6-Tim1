@@ -4,7 +4,7 @@ using Revalb.Models;
 
 namespace Revalb.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
@@ -22,6 +22,8 @@ namespace Revalb.Data
             modelBuilder.Entity<Pjesma>().ToTable("Pjesme");
             modelBuilder.Entity<Recenzija>().ToTable("Recenzije");
             modelBuilder.Entity<Album>().ToTable("Albumi");
+
+            base.OnModelCreating(modelBuilder);
         }
     }
 }

@@ -1,0 +1,53 @@
+﻿@model Revalb.Models.Pjesma
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Pjesma</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="naziv" class="control-label"></label>
+                <input asp-for="naziv" class="form-control" />
+                <span asp-validation-for="naziv" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Trajanje" class="control-label"></label>
+                <input asp-for="Trajanje" class="form-control" />
+                <span asp-validation-for="Trajanje" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="redniBroj" class="control-label"></label>
+                <input asp-for="redniBroj" class="form-control" />
+                <span asp-validation-for="redniBroj" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fajl" class="control-label"></label>
+                <input asp-for="fajl" class="form-control" />
+                <span asp-validation-for="fajl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="idAlbum" class="control-label"></label>
+                <input asp-for="idAlbum" class="form-control" />
+                <span asp-validation-for="idAlbum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

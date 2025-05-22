@@ -1,0 +1,48 @@
+﻿@model Revalb.Models.Recenzija
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Recenzija</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.idRecenzent)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.idRecenzent)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.idAlbum)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.idAlbum)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Komentar)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Komentar)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Zvjezdice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Zvjezdice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DatumObjave)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DatumObjave)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.idRecenzija">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

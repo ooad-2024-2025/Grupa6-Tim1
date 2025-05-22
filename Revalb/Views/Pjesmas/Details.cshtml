@@ -1,0 +1,48 @@
+﻿@model Revalb.Models.Pjesma
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Pjesma</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.naziv)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.naziv)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Trajanje)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Trajanje)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.redniBroj)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.redniBroj)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.fajl)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.fajl)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.idAlbum)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.idAlbum)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.idPjesma">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
