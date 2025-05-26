@@ -4,74 +4,41 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.IdArtist)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Naziv)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DatumObjave)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Zanr)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CoverSlika)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ArtistIme)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Opis)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ProsjecnaOcjena)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdArtist)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Naziv)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DatumObjave)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Zanr)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CoverSlika)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ArtistIme)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Opis)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ProsjecnaOcjena)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.IdAlbum">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.IdAlbum">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.IdAlbum">Delete</a>
-            </td>
-        </tr>
+@section Styles {
+    <link rel="stylesheet" href="~/css/albumi/Albumi.css" />
 }
-    </tbody>
-</table>
+
+<div class="container">
+    <div class="header">Select an album to view, edit or delete</div>
+
+    <div class="grid" id="albumGrid">
+        @foreach (var item in Model)
+        {
+            <div class="album-card" data-id="@item.IdAlbum">
+                <div class="album-cover"></div>
+                <div class="album-name">@item.Naziv</div>
+                <div class="artist-name">@item.ArtistIme</div>
+                <div class="action-buttons">
+                    <a asp-action="Edit" asp-route-id="@item.IdAlbum">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.IdAlbum">Delete</a>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="create-button">
+    <a asp-action="Create">Create New Album</a>
+</div>
+
+@section Scripts {
+    <script>
+        const cards = document.querySelectorAll('.album-card');
+        cards.forEach(card => {
+            card.addEventListener('click', () => {
+                cards.forEach(c => c.classList.remove('selected'));
+                card.classList.add('selected');
+            });
+        });
+    </script>
+}

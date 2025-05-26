@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\OOAD Revalb\\Grupa6-Tim1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\controllers\\pjesmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\controllers\\pjesmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\controllers\\recenzijascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\controllers\\recenzijascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\wwwroot\\css\\albumi\\albumi.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\wwwroot\\css\\albumi\\albumi.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\wwwroot\\css\\albumi\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\wwwroot\\css\\albumi\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\views\\albums\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\views\\albums\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\controllers\\korisnikscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\controllers\\korisnikscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\migrations\\20250522094349_migracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\migrations\\20250522094349_migracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|d:\\ooad revalb\\grupa6-tim1\\revalb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B459D6D-AA51-4F14-96B9-B4E478D133E1}|Revalb\\Revalb.csproj|solutionrelative:revalb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PjesmasController.cs",
-              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Controllers\\PjesmasController.cs",
-              "RelativeDocumentMoniker": "Revalb\\Controllers\\PjesmasController.cs",
-              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Controllers\\PjesmasController.cs",
-              "RelativeToolTip": "Revalb\\Controllers\\PjesmasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:19:36.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RecenzijasController.cs",
-              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Controllers\\RecenzijasController.cs",
-              "RelativeDocumentMoniker": "Revalb\\Controllers\\RecenzijasController.cs",
-              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Controllers\\RecenzijasController.cs",
-              "RelativeToolTip": "Revalb\\Controllers\\RecenzijasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:19:04.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Revalb\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Revalb\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:16:49.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\appsettings.json",
-              "RelativeDocumentMoniker": "Revalb\\appsettings.json",
-              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\appsettings.json",
-              "RelativeToolTip": "Revalb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T10:01:13.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250522094349_migracija.cs",
-              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Migrations\\20250522094349_migracija.cs",
-              "RelativeDocumentMoniker": "Revalb\\Migrations\\20250522094349_migracija.cs",
-              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Migrations\\20250522094349_migracija.cs",
-              "RelativeToolTip": "Revalb\\Migrations\\20250522094349_migracija.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:53:46.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Revalb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Revalb\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:53:05.954Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Views\\Albums\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Revalb\\Views\\Albums\\Edit.cshtml",
+              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Views\\Albums\\Edit.cshtml",
+              "RelativeToolTip": "Revalb\\Views\\Albums\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T16:41:23.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AlbumsController.cs",
-              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Controllers\\AlbumsController.cs",
-              "RelativeDocumentMoniker": "Revalb\\Controllers\\AlbumsController.cs",
-              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Controllers\\AlbumsController.cs",
-              "RelativeToolTip": "Revalb\\Controllers\\AlbumsController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:55:52.441Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Revalb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Revalb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T16:15:14.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "KorisniksController.cs",
-              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Controllers\\KorisniksController.cs",
-              "RelativeDocumentMoniker": "Revalb\\Controllers\\KorisniksController.cs",
-              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Controllers\\KorisniksController.cs",
-              "RelativeToolTip": "Revalb\\Controllers\\KorisniksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:56:26.49Z",
+              "DocumentIndex": 3,
+              "Title": "Create.css",
+              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\wwwroot\\css\\albumi\\Create.css",
+              "RelativeDocumentMoniker": "Revalb\\wwwroot\\css\\albumi\\Create.css",
+              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\wwwroot\\css\\albumi\\Create.css",
+              "RelativeToolTip": "Revalb\\wwwroot\\css\\albumi\\Create.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-26T16:30:52.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Views\\Albums\\Create.cshtml",
+              "RelativeDocumentMoniker": "Revalb\\Views\\Albums\\Create.cshtml",
+              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Views\\Albums\\Create.cshtml",
+              "RelativeToolTip": "Revalb\\Views\\Albums\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:53:16.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Albumi.css",
+              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\wwwroot\\css\\albumi\\Albumi.css",
+              "RelativeDocumentMoniker": "Revalb\\wwwroot\\css\\albumi\\Albumi.css",
+              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\wwwroot\\css\\albumi\\Albumi.css",
+              "RelativeToolTip": "Revalb\\wwwroot\\css\\albumi\\Albumi.css",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwIsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-26T15:56:48.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Views\\Albums\\Index.cshtml",
+              "RelativeDocumentMoniker": "Revalb\\Views\\Albums\\Index.cshtml",
+              "ToolTip": "D:\\OOAD Revalb\\Grupa6-Tim1\\Revalb\\Views\\Albums\\Index.cshtml",
+              "RelativeToolTip": "Revalb\\Views\\Albums\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:58:36.989Z",
               "EditorCaption": ""
             }
           ]
