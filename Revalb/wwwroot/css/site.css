@@ -3,7 +3,8 @@ html {
   
 }
 nav{
-  background-color: #143034;
+  background-color: hotpink;
+  
 }
 
 @media (min-width: 768px) {
@@ -22,6 +23,6 @@ html {
 }
 
 body {
-  background-color: #143034;
+  background-color: white;
   margin-bottom: 60px;
 }
