@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vbs473z5kg</Fingerprint>
-      <Integrity>ldTuf2KbnEzWig+YXlu8rODNYdDPyFgQ58NZJZUq71Q=</Integrity>
+      <Fingerprint>02eanbaj2t</Fingerprint>
+      <Integrity>WLcqsgYZy1yi/RHjVeQnE6Pi8NlTD4aL5DxG9RT1Vd4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YkyhtnDel/6d8rT7JoYtk0H84JspxQhkDwOY0aXW414=",
+  "Hash": "0fFGBjYj9g42TtI/4PJth/Is9/8Um4kSk7ZPsWLyoWM=",
   "Source": "Revalb",
   "BasePath": "_content/Revalb",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vbs473z5kg",
-      "Integrity": "ldTuf2KbnEzWig+YXlu8rODNYdDPyFgQ58NZJZUq71Q=",
+      "Fingerprint": "02eanbaj2t",
+      "Integrity": "WLcqsgYZy1yi/RHjVeQnE6Pi8NlTD4aL5DxG9RT1Vd4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2581,6 +2581,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/site.02eanbaj2t.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WLcqsgYZy1yi/RHjVeQnE6Pi8NlTD4aL5DxG9RT1Vd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 17:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02eanbaj2t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WLcqsgYZy1yi/RHjVeQnE6Pi8NlTD4aL5DxG9RT1Vd4="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2591,7 +2636,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "435"
+          "Value": "430"
         },
         {
           "Name": "Content-Type",
@@ -2599,11 +2644,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ldTuf2KbnEzWig+YXlu8rODNYdDPyFgQ58NZJZUq71Q=\""
+          "Value": "\"WLcqsgYZy1yi/RHjVeQnE6Pi8NlTD4aL5DxG9RT1Vd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 16:53:34 GMT"
+          "Value": "Thu, 29 May 2025 17:22:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2613,52 +2658,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ldTuf2KbnEzWig+YXlu8rODNYdDPyFgQ58NZJZUq71Q="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.vbs473z5kg.css",
-      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "435"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ldTuf2KbnEzWig+YXlu8rODNYdDPyFgQ58NZJZUq71Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 16:53:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vbs473z5kg"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ldTuf2KbnEzWig+YXlu8rODNYdDPyFgQ58NZJZUq71Q="
+          "Value": "sha256-WLcqsgYZy1yi/RHjVeQnE6Pi8NlTD4aL5DxG9RT1Vd4="
         }
       ]
     },
