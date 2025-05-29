@@ -17,7 +17,7 @@ public class Album
     [DisplayName("Album name:")]
     public string Naziv { get; set; }
     public DateTime DatumObjave { get; set; }
-    public List<Zanrovi> Zanr { get; set; }
+    [EnumDataType(typeof(Zanrovi))] public Zanrovi Zanr { get; set; }
     public string CoverSlika { get; set; }
     public string ArtistIme { get; set; }
     [Required]
