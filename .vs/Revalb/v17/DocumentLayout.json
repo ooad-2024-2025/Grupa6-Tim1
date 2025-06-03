@@ -63,8 +63,7 @@
               "RelativeToolTip": "Revalb\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T16:15:14.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T16:15:14.861Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Revalb\\wwwroot\\css\\albumi\\Create.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-26T16:30:52.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T16:30:52.887Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Revalb\\Views\\Albums\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T15:53:16.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T15:53:16.344Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Revalb\\wwwroot\\css\\albumi\\Albumi.css",
               "ViewState": "AgIAAG4AAAAAAAAAAAAiwIsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-26T15:56:48.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T15:56:48.161Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Revalb\\Views\\Albums\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T15:58:36.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T15:58:36.989Z"
             }
           ]
         }
