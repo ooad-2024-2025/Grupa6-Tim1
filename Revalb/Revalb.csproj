@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <None Include="wwwroot\css\albumi\Albumi.css" />
+    <None Include="wwwroot\public\427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,10 +23,6 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.14" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\public\" />
   </ItemGroup>
 
 </Project>
