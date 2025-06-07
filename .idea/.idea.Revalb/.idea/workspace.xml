@@ -9,97 +9,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070100c6-7493-4a83-985e-ca537f5780ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Revalb/Areas/Identity/Pages/Account/ArtistAlbums.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revalb/Areas/Identity/Pages/Account/ArtistAlbums.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revalb/Areas/Identity/Pages/Account/ArtistProfile.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revalb/Areas/Identity/Pages/Account/ArtistProfile.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Revalb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Revalb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/AlbumsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/AlbumsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/KorisniksController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/KorisniksController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/PjesmasController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/PjesmasController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/RecenzijasController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/RecenzijasController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Data/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Data/ApplicationDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Models/Album.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Models/Album.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Models/Korisnik.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Models/Korisnik.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Revalb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Revalb.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Albums/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Albums/Create.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/Views/Albums/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Albums/Delete.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/Views/Albums/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Albums/Details.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/Views/Albums/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Albums/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Albums/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Albums/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Korisniks/Create.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Korisniks/Delete.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Korisniks/Details.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Korisniks/Edit.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Korisniks/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Shared/_LoginPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Shared/_LoginPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Build.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Build.Framework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Build.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Build.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.NET.StringTools.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.NET.StringTools.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.runtime.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Drawing.Common.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Security.Permissions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/System.Windows.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.RazorAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/ref/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/ref/Revalb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/refint/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/refint/Revalb.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.pack.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssets.props" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssets.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Revalb.csproj.EntityFrameworkCore.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Revalb.csproj.EntityFrameworkCore.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Revalb.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Revalb.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Revalb.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Revalb.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/Revalb.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Revalb.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/wwwroot/css/site.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,8 +121,25 @@
       <option name="presentableId" value="Default" />
       <updated>1748245978250</updated>
       <workItem from="1748245980571" duration="514000" />
-      <workItem from="1749307954087" duration="347000" />
+      <workItem from="1749307954087" duration="1529000" />
     </task>
+    <task id="LOCAL-00001" summary="Uradjen auth, zapocet je do za artiste">
+      <option name="closed" value="true" />
+      <created>1749308363144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749308363144</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <option name="closed" value="true" />
+      <created>1749308397046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749308397046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +149,9 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Uradjen auth, zapocet je do za artiste" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

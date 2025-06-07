@@ -14,14 +14,17 @@
         <div class="d-flex flex-wrap gap-4 justify-content-center">
             @foreach (var album in Model)
             {
-                <div class="album-card text-white p-2" style="width: 150px; background-color: #1f1f1f; border-radius: 15px; text-align: center;">
-                    <img src="@album.CoverSlika" alt="@album.Naziv" class="img-fluid rounded" style="width: 100%; height: 150px; object-fit: cover;" />
-                    <div class="mt-2">
-                        <div class="fw-bold">@album.Naziv</div>
-                        <div class="small">@album.DatumObjave.ToString("yyyy") · Album</div>
+                <a asp-controller="Albums" asp-action="Details" asp-route-id="@album.IdAlbum" style="text-decoration: none; color: inherit;">
+                    <div class="album-card text-white p-2" style="width: 150px; background-color: #1f1f1f; border-radius: 15px; text-align: center;">
+                        <img src="@album.CoverSlika" alt="@album.Naziv" class="img-fluid rounded" style="width: 100%; height: 150px; object-fit: cover;" />
+                        <div class="mt-2">
+                            <div class="fw-bold">@album.Naziv</div>
+                            <div class="small">@album.DatumObjave.ToString("yyyy") · Album</div>
+                        </div>
                     </div>
-                </div>
+                </a>
             }
+
         </div>
     </div>
 
@@ -35,8 +38,16 @@
 
 @section Styles {
     <style>
-    body {
-        background-color: #032830;
-    }
-</style>
+        
+        .album-card {
+            transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+        }
+
+        .album-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+            background-color: #2a2a2a; /* malo svetlija na hover */
+            cursor: pointer;
+        }
+    </style>
 }

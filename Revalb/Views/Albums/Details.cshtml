@@ -1,65 +1,68 @@
 ﻿@model Revalb.Models.Album
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Album Details";
 }
+
+<div class="container mt-5">
+    <a asp-action="Index" class="text-white text-decoration-none mb-4 d-inline-block">
+        &larr; go back
+    </a>
+
+    <div class="card p-4" style="border-radius: 20px; display: flex; align-items: center; background-color: white;">
+        <div style="flex: 1; text-align: center;">
+            <img src="@Model.CoverSlika" alt="@Model.Naziv" class="img-fluid rounded" style="max-width: 250px; height: auto;" />
+        </div>
+        <div style="flex: 2; padding-left: 30px;">
+            <h2 class="fw-bold">@Model.Naziv @Model.DatumObjave.ToString("yyyy")</h2>
+
+            <div class="mt-4">
+                <a asp-action="Edit" asp-route-id="@Model.IdAlbum" class="btn btn-outline-dark me-3">
+                    <i class="bi bi-pencil-square"></i> Edit
+                </a>
+
+                <a asp-action="Delete" asp-route-id="@Model.IdAlbum" class="btn btn-outline-danger">
+                    <i class="bi bi-x-circle"></i> Delete
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="d-flex justify-content-end mt-4">
+        <a href="#" class="text-white text-decoration-none fw-bold" style="font-size: 1.2rem;">
+            Analytics →
+        </a>
+    </div>
+</div>
 
 @section Styles {
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <style>
+        body {
+            background-color: #032830;
+        }
+
+        .btn {
+            font-size: 1.2rem;
+        }
+
+        .btn-outline-dark {
+            color: #1f1f1f;
+            border-color: #1f1f1f;
+        }
+
+        .btn-outline-dark:hover {
+            background-color: #1f1f1f;
+            color: white;
+        }
+
+        .btn-outline-danger {
+            color: #e3342f;
+            border-color: #e3342f;
+        }
+
+        .btn-outline-danger:hover {
+            background-color: #e3342f;
+            color: white;
+        }
+    </style>
 }
-
-<h1>Details</h1>
-
-<div>
-    <h4>Album</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IdArtist)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.IdArtist)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Naziv)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Naziv)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.DatumObjave)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.DatumObjave)
-        </dd>
-     
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CoverSlika)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.CoverSlika)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ArtistIme)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ArtistIme)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Opis)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Opis)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ProsjecnaOcjena)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ProsjecnaOcjena)
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.IdAlbum">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
