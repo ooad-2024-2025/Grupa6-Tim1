@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Revalb.Data;
+using Revalb.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,31 +14,26 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options =>
-    {
-        options.SignIn.RequireConfirmedAccount = false;
-        options.Password.RequireDigit = false;
-        options.Password.RequireLowercase = false;
-        options.Password.RequireUppercase = false;
-        options.Password.RequireNonAlphanumeric = false;
-        options.Password.RequiredLength = 6;
-    })
-    .AddRoles<IdentityRole>()
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddIdentity<Korisnik, IdentityRole>(options =>
+{
+    options.SignIn.RequireConfirmedAccount = false;
+    options.Password.RequireDigit = false;
+    options.Password.RequireLowercase = false;
+    options.Password.RequireUppercase = false;
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequiredLength = 6;
+})
+.AddEntityFrameworkStores<ApplicationDbContext>()
+.AddDefaultTokenProviders();
 
-// ✅ Ako u budućnosti želiš dodati autentifikaciju ručno
-// builder.Services.AddAuthentication();
-// builder.Services.AddAuthorization();
-
-// ✅ Dodavanje MVC podrške
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
-// 🔧 Middleware pipeline konfiguracija
 if (app.Environment.IsDevelopment())
 {
-    app.UseMigrationsEndPoint(); // prikazuje detalje o greškama u migracijama
+    app.UseMigrationsEndPoint();
 }
 else
 {
@@ -50,25 +46,34 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-// 🔴 Uklonjeno: app.UseAuthentication(); (jer ne koristiš Identity)
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// 🔴 Uklonjeno: app.MapRazorPages(); (vezano za Identity UI)
+app.MapRazorPages();
+
+// ✅ Pozivamo funkciju za kreiranje rola
+await SeedRolesAsync(app.Services);
 
 app.Run();
-var scope = app.Services.CreateScope();
-var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 
-string[] roles = { "Artist", "Recenzent" };
-
-foreach (var role in roles)
+// ✅ Funkcija za seedanje rola
+async Task SeedRolesAsync(IServiceProvider serviceProvider)
 {
-    if (!await roleManager.RoleExistsAsync(role))
+    using var scope = serviceProvider.CreateScope();
+    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+
+    string[] roleNames = { "Recenzent", "Artist", "Administrator" };
+
+    foreach (var roleName in roleNames)
     {
-        await roleManager.CreateAsync(new IdentityRole(role));
+        var roleExist = await roleManager.RoleExistsAsync(roleName);
+        if (!roleExist)
+        {
+            await roleManager.CreateAsync(new IdentityRole(roleName));
+        }
     }
-}//#143034
+}

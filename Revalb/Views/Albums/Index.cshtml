@@ -1,77 +1,53 @@
-﻿@model IEnumerable<Revalb.Models.Album>
+﻿@model List<Revalb.Models.Album>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Your Albums";
 }
 
-<h1>Index</h1>
+<div class="container mt-5">
+    <a asp-area="Identity" asp-page="/Account/ArtistProfile" class="text-white text-decoration-none mb-4 d-inline-block">
+        &larr; Back to Profile
+    </a>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.IdArtist)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Naziv)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DatumObjave)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Zanr)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CoverSlika)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ArtistIme)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Opis)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ProsjecnaOcjena)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdArtist)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Naziv)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DatumObjave)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Zanr)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CoverSlika)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ArtistIme)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Opis)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ProsjecnaOcjena)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.IdAlbum">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.IdAlbum">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.IdAlbum">Delete</a>
-            </td>
-        </tr>
+    <div class="card p-4 mb-5" style="border-radius: 20px;">
+        <h3 class="mb-4 text-center">Your Albums</h3>
+        <div class="d-flex flex-wrap gap-4 justify-content-center">
+            @foreach (var album in Model)
+            {
+                <a asp-controller="Albums" asp-action="Details" asp-route-id="@album.IdAlbum" style="text-decoration: none; color: inherit;">
+                    <div class="album-card text-white p-2" style="width: 150px; background-color: #1f1f1f; border-radius: 15px; text-align: center;">
+                        <img src="@album.CoverSlika" alt="@album.Naziv" class="img-fluid rounded" style="width: 100%; height: 150px; object-fit: cover;" />
+                        <div class="mt-2">
+                            <div class="fw-bold">@album.Naziv</div>
+                            <div class="small">@album.DatumObjave.ToString("yyyy") · Album</div>
+                        </div>
+                    </div>
+                </a>
+            }
+
+        </div>
+    </div>
+
+    <div class="card p-4" style="border-radius: 20px;">
+        <a asp-controller="Albums" asp-action="Create" class="text-decoration-none d-flex justify-content-between align-items-center">
+            <h4 class="mb-0">➕ Add Album</h4>
+            <span style="font-size: 24px;">&rarr;</span>
+        </a>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        
+        .album-card {
+            transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+        }
+
+        .album-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+            background-color: #2a2a2a; /* malo svetlija na hover */
+            cursor: pointer;
+        }
+    </style>
 }
-    </tbody>
-</table>

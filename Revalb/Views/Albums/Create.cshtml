@@ -4,65 +4,50 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+@section Styles {
+    <link rel="stylesheet" href="~/css/albumi/Albumi.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+}
 
-<h4>Album</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="IdArtist" class="control-label"></label>
-                <input asp-for="IdArtist" class="form-control" />
-                <span asp-validation-for="IdArtist" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Naziv" class="control-label"></label>
-                <input asp-for="Naziv" class="form-control" />
-                <span asp-validation-for="Naziv" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="DatumObjave" class="control-label"></label>
-                <input asp-for="DatumObjave" class="form-control" />
-                <span asp-validation-for="DatumObjave" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Zanr" class="control-label"></label>
-                <select asp-for="Zanr" class="form-control" asp-items="Html.GetEnumSelectList<Zanrovi>()"></select>
-                <span asp-validation-for="Zanr" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CoverSlika" class="control-label"></label>
-                <input asp-for="CoverSlika" class="form-control" />
-                <span asp-validation-for="CoverSlika" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ArtistIme" class="control-label"></label>
-                <input asp-for="ArtistIme" class="form-control" />
-                <span asp-validation-for="ArtistIme" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Opis" class="control-label"></label>
-                <input asp-for="Opis" class="form-control" />
-                <span asp-validation-for="Opis" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ProsjecnaOcjena" class="control-label"></label>
-                <input asp-for="ProsjecnaOcjena" class="form-control" />
-                <span asp-validation-for="ProsjecnaOcjena" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
+<div class="AlbumForm">
+    <div class="header">Add a New Album</div>
+    <form asp-action="Create" method="post" class="form" novalidate>
+        <div asp-validation-summary="All" class="text-danger"></div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+        <div class="form-group">
+            <label asp-for="Naziv" class="form-label"></label>
+            <input asp-for="Naziv" class="form-input" />
+            <span asp-validation-for="Naziv" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="DatumObjave" class="form-label"></label>
+            <input asp-for="DatumObjave" class="form-input" type="date" />
+            <span asp-validation-for="DatumObjave" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CoverSlika" class="form-label"></label>
+            <input asp-for="CoverSlika" class="form-input" />
+            <span asp-validation-for="CoverSlika" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Opis" class="form-label"></label>
+            <textarea asp-for="Opis" class="form-input"></textarea>
+            <span asp-validation-for="Opis" class="text-danger"></span>
+        </div>
+
+        <div class="form-actions">
+            <input type="submit" value="Create" class="form-button" />
+            <a asp-action="Index" class="form-button secondary">Back to List</a>
+        </div>
+    </form>
+
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

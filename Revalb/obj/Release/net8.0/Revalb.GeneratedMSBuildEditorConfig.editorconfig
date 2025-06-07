@@ -32,12 +32,92 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Albums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Albums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Albums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Albums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Albums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Korisniks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Korisniks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Korisniks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Korisniks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Korisniks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Pjesmas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGplc21hc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Pjesmas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGplc21hc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Pjesmas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGplc21hc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Pjesmas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGplc21hc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Pjesmas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGplc21hc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Recenzijas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56aWphc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Recenzijas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56aWphc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Recenzijas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56aWphc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Recenzijas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56aWphc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Recenzijas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56aWphc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/OOAD Revalb/Grupa6-Tim1/Revalb/Views/Shared/Error.cshtml]

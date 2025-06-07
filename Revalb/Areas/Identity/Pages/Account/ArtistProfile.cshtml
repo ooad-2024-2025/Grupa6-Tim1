@@ -1,0 +1,75 @@
+@page
+@model Revalb.Areas.Identity.Pages.Account.ArtistProfileModel
+@{
+    ViewData["Title"] = "Artist Profile";
+}
+
+<div class="container mt-5">
+    <h1 class="text-white mb-4">Welcome @Model.ArtistName!</h1>
+
+    <div class="row g-4">
+        <div class="col-md-6">
+            <div class="card artist-card h-100 p-4">
+                <div class="d-flex flex-column align-items-center">
+                    <img src="~/images/analytics-icon.png" alt="Analytics Icon" style="width: 100px;" class="mb-3" />
+                    <h4>Analytics</h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card artist-card h-100 p-4">
+                <div class="d-flex flex-column align-items-center">
+                    <img src="~/images/verified-badge.png" alt="Verified Badge" style="width: 50px;" class="mb-3" />
+                    <a asp-controller="Korisnici" asp-action="Profile" class="text-decoration-none text-dark">
+                        <h4>@Model.ArtistName</h4>
+                    </a>
+
+                    <p>@Model.MonthlyListeners.ToString("N0") monthly listeners</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-12">
+            <div class="card artist-card h-100 p-4">
+                <a asp-controller="Albums" asp-action="Index" class="mb-3 d-inline-block fw-bold">
+                    Your Albums
+                </a>
+
+                <div class="d-flex flex-wrap gap-3">
+                    @foreach (var album in Model.Albums)
+                    {
+                        <div class="album-cover">
+                            <img src="@album.CoverSlika" alt="@album.Naziv" class="img-fluid rounded" style="width: 150px; height: 150px; object-fit: cover;" />
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+    body {
+        background-color: #032830;
+    }
+    .artist-card {
+        background-color: white;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        text-align: center;
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .artist-card img {
+        margin-bottom: 10px;
+    }
+    .artist-card:hover {
+        transform: translateY(-10px); /* Podigne karticu */
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4); /* Veća sjena */
+        background-color: #f8f9fa; /* Lagano svetlija boja na hover */
+        cursor: pointer;
+    }
+</style>
+}
+

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Revalb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dea698a7ef426e58e3adc7fa89a903808ac9ca8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94341574c368cdb4ae50d2494f5f61357b952b0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Revalb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Revalb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

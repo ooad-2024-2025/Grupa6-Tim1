@@ -1,16 +1,44 @@
 ﻿@using Microsoft.AspNetCore.Identity
-@inject SignInManager<IdentityUser> SignInManager
-@inject UserManager<IdentityUser> UserManager
+@inject SignInManager<Korisnik> SignInManager
+@inject UserManager<Korisnik> UserManager
 
-<ul class="navbar-nav">
-    <li class="nav-item">
-        <a  class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
-    </li>
-    <li class="nav-item">
-        <form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
-            <button  type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+@{
+    string areaName = "Identity"; // fiksno
+    string pageName = ""; // dinamički određujemo
+
+    if (SignInManager.IsSignedIn(User))
+    {
+        if (User.IsInRole("Artist"))
+        {
+            pageName = "/Account/ArtistProfile";
+        }
+        else if (User.IsInRole("Recenzent"))
+        {
+            pageName = "/Account/RecenzentProfile";
+        }
+        else if (User.IsInRole("Administrator"))
+        {
+            pageName = "/Account/AdminDashboard";
+        }
+    }
+}
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="d-flex align-items-center">
+        <a asp-area="@areaName" asp-page="@pageName" class="user-pill d-flex align-items-center px-3 py-2 rounded-pill text-decoration-none">
+            <div class="avatar me-2"></div>
+            <span class="fw-bold text-dark">@UserManager.GetUserName(User)</span>
+        </a>
+        <form asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post" class="d-inline ms-3">
+            <button type="submit" class="btn btn-outline-light">Log out</button>
         </form>
-    </li>
-
-
-</ul>
+    </div>
+}
+else
+{
+    <div class="d-flex align-items-center">
+        <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-light me-2 fw-bold px-4">Sign up</a>
+        <a asp-area="Identity" asp-page="/Account/Login" class="btn btn-outline-light fw-bold px-4">Log in</a>
+    </div>
+}
