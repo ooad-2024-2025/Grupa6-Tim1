@@ -88,14 +88,23 @@ namespace Revalb.Controllers
         {
             if (id != album.IdAlbum) return NotFound();
 
+            var dbAlbum = await _context.Albumi.FindAsync(id);
+            if (dbAlbum == null || !await IsOwner(dbAlbum)) return NotFound();
+
+            // Ovdje popunjavamo ono što ne šaljemo kroz formu:
+            album.IdArtist = dbAlbum.IdArtist;
+            album.ArtistIme = dbAlbum.ArtistIme;
+            album.ProsjecnaOcjena = dbAlbum.ProsjecnaOcjena;
+
+            // ⚡ RESETUJ VALIDACIJU:
+            ModelState.Clear();
+            TryValidateModel(album);
+
             if (ModelState.IsValid)
             {
                 try
                 {
-                    var dbAlbum = await _context.Albumi.FindAsync(id);
-                    if (dbAlbum == null || !await IsOwner(dbAlbum)) return NotFound();
-
-                    // Update samo dozvoljena polja
+                    // Update polja
                     dbAlbum.Naziv = album.Naziv;
                     dbAlbum.DatumObjave = album.DatumObjave;
                     dbAlbum.CoverSlika = album.CoverSlika;
@@ -115,6 +124,8 @@ namespace Revalb.Controllers
             }
             return View(album);
         }
+
+
 
         // GET: Albums/Delete/5
         public async Task<IActionResult> Delete(int? id)
