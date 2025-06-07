@@ -9,13 +9,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070100c6-7493-4a83-985e-ca537f5780ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Revalb/Controllers/KorisniciController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Revalb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Revalb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/AlbumsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/AlbumsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Views/Albums/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Albums/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/Areas/Identity/Pages/Account/ArtistProfile.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Areas/Identity/Pages/Account/ArtistProfile.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.sourcelink.json" afterDir="false" />
@@ -120,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748245978250</updated>
       <workItem from="1748245980571" duration="514000" />
-      <workItem from="1749307954087" duration="2267000" />
+      <workItem from="1749307954087" duration="4624000" />
     </task>
     <task id="LOCAL-00001" summary="Uradjen auth, zapocet je do za artiste">
       <option name="closed" value="true" />
@@ -146,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749309694578</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Popravljen edit">
+      <option name="closed" value="true" />
+      <created>1749310548746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749310548746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +168,8 @@
     <MESSAGE value="Uradjen auth, zapocet je do za artiste" />
     <MESSAGE value="2" />
     <MESSAGE value="Napravljeno skoro sve vezano za artiste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Napravljeno skoro sve vezano za artiste" />
+    <MESSAGE value="Popravljen edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Popravljen edit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

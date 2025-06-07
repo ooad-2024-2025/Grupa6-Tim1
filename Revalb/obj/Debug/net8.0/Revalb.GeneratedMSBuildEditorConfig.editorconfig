@@ -220,6 +220,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Korisnici/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29yaXNuaWNpL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Korisnici/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29yaXNuaWNpL1Byb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Pjesmas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGplc21hcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
