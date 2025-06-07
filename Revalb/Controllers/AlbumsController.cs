@@ -1,44 +1,41 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Revalb.Data;
 using Revalb.Models;
 
 namespace Revalb.Controllers
 {
+    [Authorize(Roles = "Artist")]
     public class AlbumsController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly UserManager<Korisnik> _userManager;
 
-        public AlbumsController(ApplicationDbContext context)
+        public AlbumsController(ApplicationDbContext context, UserManager<Korisnik> userManager)
         {
             _context = context;
+            _userManager = userManager;
         }
 
         // GET: Albums
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Albumi.ToListAsync());
+            var user = await _userManager.GetUserAsync(User);
+            var albums = await _context.Albumi
+                .Where(a => a.IdArtist == user.Id)
+                .ToListAsync();
+            return View(albums);
         }
 
         // GET: Albums/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var album = await _context.Albumi
-                .FirstOrDefaultAsync(m => m.IdAlbum == id);
-            if (album == null)
-            {
-                return NotFound();
-            }
+            var album = await _context.Albumi.FirstOrDefaultAsync(m => m.IdAlbum == id);
+            if (album == null || !await IsOwner(album)) return NotFound();
 
             return View(album);
         }
@@ -50,66 +47,69 @@ namespace Revalb.Controllers
         }
 
         // POST: Albums/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdAlbum,IdArtist,Naziv,DatumObjave,Zanr,CoverSlika,ArtistIme,Opis,ProsjecnaOcjena")] Album album)
+        public async Task<IActionResult> Create([Bind("Naziv,DatumObjave,CoverSlika,Opis")] Album album)
         {
+            var user = await _userManager.GetUserAsync(User);
+            album.IdArtist = user.Id;
+            album.ArtistIme = user.Ime + " " + user.Prezime;
+            album.ProsjecnaOcjena = 0;
+
+            ModelState.Clear();
+            TryValidateModel(album);
+
             if (ModelState.IsValid)
             {
                 _context.Add(album);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
             return View(album);
         }
+
 
         // GET: Albums/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
             var album = await _context.Albumi.FindAsync(id);
-            if (album == null)
-            {
-                return NotFound();
-            }
+            if (album == null || !await IsOwner(album)) return NotFound();
+
             return View(album);
         }
 
         // POST: Albums/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("IdAlbum,IdArtist,Naziv,DatumObjave,Zanr,CoverSlika,ArtistIme,Opis,ProsjecnaOcjena")] Album album)
+        public async Task<IActionResult> Edit(int id, [Bind("IdAlbum,Naziv,DatumObjave,CoverSlika,Opis")] Album album)
         {
-            if (id != album.IdAlbum)
-            {
-                return NotFound();
-            }
+            if (id != album.IdAlbum) return NotFound();
 
             if (ModelState.IsValid)
             {
                 try
                 {
-                    _context.Update(album);
+                    var dbAlbum = await _context.Albumi.FindAsync(id);
+                    if (dbAlbum == null || !await IsOwner(dbAlbum)) return NotFound();
+
+                    // Update samo dozvoljena polja
+                    dbAlbum.Naziv = album.Naziv;
+                    dbAlbum.DatumObjave = album.DatumObjave;
+                    dbAlbum.CoverSlika = album.CoverSlika;
+                    dbAlbum.Opis = album.Opis;
+
+                    _context.Update(dbAlbum);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
                     if (!AlbumExists(album.IdAlbum))
-                    {
                         return NotFound();
-                    }
                     else
-                    {
                         throw;
-                    }
                 }
                 return RedirectToAction(nameof(Index));
             }
@@ -119,17 +119,10 @@ namespace Revalb.Controllers
         // GET: Albums/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var album = await _context.Albumi
-                .FirstOrDefaultAsync(m => m.IdAlbum == id);
-            if (album == null)
-            {
-                return NotFound();
-            }
+            var album = await _context.Albumi.FirstOrDefaultAsync(m => m.IdAlbum == id);
+            if (album == null || !await IsOwner(album)) return NotFound();
 
             return View(album);
         }
@@ -140,11 +133,9 @@ namespace Revalb.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var album = await _context.Albumi.FindAsync(id);
-            if (album != null)
-            {
-                _context.Albumi.Remove(album);
-            }
+            if (album == null || !await IsOwner(album)) return NotFound();
 
+            _context.Albumi.Remove(album);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
@@ -152,6 +143,12 @@ namespace Revalb.Controllers
         private bool AlbumExists(int id)
         {
             return _context.Albumi.Any(e => e.IdAlbum == id);
+        }
+
+        private async Task<bool> IsOwner(Album album)
+        {
+            var user = await _userManager.GetUserAsync(User);
+            return album.IdArtist == user.Id;
         }
     }
 }

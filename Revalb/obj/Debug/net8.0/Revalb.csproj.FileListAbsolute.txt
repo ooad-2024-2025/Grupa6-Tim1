@@ -879,7 +879,6 @@ D:/OOAD Revalb/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Syste
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Mono.TextTemplating.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/NuGet.Common.dll
@@ -900,7 +899,6 @@ D:/OOAD Revalb/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Syste
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Composition.TypedParts.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Drawing.Common.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Formats.Asn1.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.IO.Pipelines.dll
@@ -908,10 +906,8 @@ D:/OOAD Revalb/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Syste
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Runtime.Caching.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Security.Permissions.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Text.Encodings.Web.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Text.Json.dll
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/System.Windows.Extensions.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/af/Humanizer.resources.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/ar/Humanizer.resources.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/az/Humanizer.resources.dll
@@ -1070,12 +1066,8 @@ D:/OOAD Revalb/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Syste
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/Revalb.csproj.AssemblyReference.cache
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/Revalb.GeneratedMSBuildEditorConfig.editorconfig
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache

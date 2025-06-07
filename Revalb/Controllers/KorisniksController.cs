@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Revalb.Data;
 using Revalb.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace Revalb.Controllers
 {
@@ -22,19 +18,21 @@ namespace Revalb.Controllers
         // GET: Korisniks
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Korisnici.ToListAsync());
+            return View(await _context.Users.OfType<Korisnik>().ToListAsync());
         }
 
         // GET: Korisniks/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Details(string id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var korisnik = await _context.Korisnici
-                .FirstOrDefaultAsync(m => m.idKorisnik == id);
+            var korisnik = await _context.Users
+                .OfType<Korisnik>()
+                .FirstOrDefaultAsync(m => m.Id == id);
+
             if (korisnik == null)
             {
                 return NotFound();
@@ -50,14 +48,13 @@ namespace Revalb.Controllers
         }
 
         // POST: Korisniks/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("idKorisnik,Ime,Prezime,Email,Nadimak,Slika,brojRecenzija")] Korisnik korisnik)
+        public async Task<IActionResult> Create([Bind("Ime,Prezime,Nadimak,Slika,brojRecenzija,UserName,Email")] Korisnik korisnik)
         {
             if (ModelState.IsValid)
             {
+                korisnik.Id = Guid.NewGuid().ToString(); // Generate GUID for Identity ID
                 _context.Add(korisnik);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -66,14 +63,17 @@ namespace Revalb.Controllers
         }
 
         // GET: Korisniks/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(string id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var korisnik = await _context.Korisnici.FindAsync(id);
+            var korisnik = await _context.Users
+                .OfType<Korisnik>()
+                .FirstOrDefaultAsync(k => k.Id == id);
+
             if (korisnik == null)
             {
                 return NotFound();
@@ -82,13 +82,11 @@ namespace Revalb.Controllers
         }
 
         // POST: Korisniks/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("idKorisnik,Ime,Prezime,Email,Nadimak,Slika,brojRecenzija")] Korisnik korisnik)
+        public async Task<IActionResult> Edit(string id, [Bind("Id,Ime,Prezime,Nadimak,Slika,brojRecenzija,UserName,Email")] Korisnik korisnik)
         {
-            if (id != korisnik.idKorisnik)
+            if (id != korisnik.Id)
             {
                 return NotFound();
             }
@@ -102,7 +100,7 @@ namespace Revalb.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!KorisnikExists(korisnik.idKorisnik))
+                    if (!KorisnikExists(korisnik.Id))
                     {
                         return NotFound();
                     }
@@ -117,15 +115,17 @@ namespace Revalb.Controllers
         }
 
         // GET: Korisniks/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(string id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var korisnik = await _context.Korisnici
-                .FirstOrDefaultAsync(m => m.idKorisnik == id);
+            var korisnik = await _context.Users
+                .OfType<Korisnik>()
+                .FirstOrDefaultAsync(m => m.Id == id);
+
             if (korisnik == null)
             {
                 return NotFound();
@@ -137,21 +137,24 @@ namespace Revalb.Controllers
         // POST: Korisniks/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task<IActionResult> DeleteConfirmed(string id)
         {
-            var korisnik = await _context.Korisnici.FindAsync(id);
+            var korisnik = await _context.Users
+                .OfType<Korisnik>()
+                .FirstOrDefaultAsync(k => k.Id == id);
+
             if (korisnik != null)
             {
-                _context.Korisnici.Remove(korisnik);
+                _context.Users.Remove(korisnik);
+                await _context.SaveChangesAsync();
             }
 
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool KorisnikExists(int id)
+        private bool KorisnikExists(string id)
         {
-            return _context.Korisnici.Any(e => e.idKorisnik == id);
+            return _context.Users.OfType<Korisnik>().Any(e => e.Id == id);
         }
     }
 }

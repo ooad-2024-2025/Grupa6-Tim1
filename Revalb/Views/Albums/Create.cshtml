@@ -11,14 +11,8 @@
 
 <div class="AlbumForm">
     <div class="header">Add a New Album</div>
-    <form asp-action="Create" class="form">
-        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-
-        <div class="form-group">
-            <label asp-for="IdArtist" class="form-label"></label>
-            <input asp-for="IdArtist" class="form-input" />
-            <span asp-validation-for="IdArtist" class="text-danger"></span>
-        </div>
+    <form asp-action="Create" method="post" class="form" novalidate>
+        <div asp-validation-summary="All" class="text-danger"></div>
 
         <div class="form-group">
             <label asp-for="Naziv" class="form-label"></label>
@@ -28,14 +22,8 @@
 
         <div class="form-group">
             <label asp-for="DatumObjave" class="form-label"></label>
-            <input asp-for="DatumObjave" class="form-input" />
+            <input asp-for="DatumObjave" class="form-input" type="date" />
             <span asp-validation-for="DatumObjave" class="text-danger"></span>
-        </div>
-
-        <div class="form-group">
-            <label asp-for="Zanr" class="form-label"></label>
-            <input asp-for="Zanr" class="form-input" />
-            <span asp-validation-for="Zanr" class="text-danger"></span>
         </div>
 
         <div class="form-group">
@@ -45,21 +33,9 @@
         </div>
 
         <div class="form-group">
-            <label asp-for="ArtistIme" class="form-label"></label>
-            <input asp-for="ArtistIme" class="form-input" />
-            <span asp-validation-for="ArtistIme" class="text-danger"></span>
-        </div>
-
-        <div class="form-group">
             <label asp-for="Opis" class="form-label"></label>
-            <input asp-for="Opis" class="form-input" />
+            <textarea asp-for="Opis" class="form-input"></textarea>
             <span asp-validation-for="Opis" class="text-danger"></span>
-        </div>
-
-        <div class="form-group">
-            <label asp-for="ProsjecnaOcjena" class="form-label"></label>
-            <input asp-for="ProsjecnaOcjena" class="form-input" />
-            <span asp-validation-for="ProsjecnaOcjena" class="text-danger"></span>
         </div>
 
         <div class="form-actions">
@@ -67,6 +43,7 @@
             <a asp-action="Index" class="form-button secondary">Back to List</a>
         </div>
     </form>
+
 </div>
 
 @section Scripts {

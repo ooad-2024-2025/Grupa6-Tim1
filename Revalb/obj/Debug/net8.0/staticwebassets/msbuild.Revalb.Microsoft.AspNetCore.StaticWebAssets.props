@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>546xh1x2e2</Fingerprint>
-      <Integrity>NYL5MiWHxDsa7IlO6X72+1fKBC6OindcVn1GTxE2M04=</Integrity>
+      <Fingerprint>xtonzhhglh</Fingerprint>
+      <Integrity>ddTjb1K3nc8MECYBtvP/4bpppXA99K9cHbhPAO5cTFA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\albumi\Albumi.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ze83txkih0</Fingerprint>
-      <Integrity>pZGIIaiUwsWdENQru0e/kdLbmSP3O0I+a9PPYzyZwxs=</Integrity>
+      <Fingerprint>72jwilye95</Fingerprint>
+      <Integrity>f45YOUFH37YAnZnImyYFAL5Fg6jp2Xoqb2DCIcbw5bc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -1115,6 +1115,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\public\427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Revalb</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Revalb</BasePath>
+      <RelativePath>public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>h2zapguout</Fingerprint>
+      <Integrity>91ZRxjlDAojWBN7mLBBU5IA09bP80gkpe14vPS5JJWQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\public\427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Revalb.g6876mhza5.bundle.scp.css'))">
       <SourceType>Package</SourceType>

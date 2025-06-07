@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n6EW8/4p3Lnt26/Gkqr69//8RIpfexC2xAD2JkBlgaQ=",
+  "Hash": "omDjRE38ybJ3vcANEqfXvH5HUu70pAeziSefNeR5lvo=",
   "Source": "Revalb",
   "BasePath": "_content/Revalb",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/css/site.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/css/site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "iIBjbvm5vITl1MTy8HKNN3NBvO3WBn8nJD7zOoyqoaU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/css/site.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/css/site.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/favicon.ico",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/favicon.ico"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/favicon.ico"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/js/site.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/js/site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -77,13 +77,13 @@
       "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/js/site.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/js/site.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -98,13 +98,13 @@
       "Integrity": "JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -119,13 +119,13 @@
       "Integrity": "QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -140,13 +140,13 @@
       "Integrity": "ysBT/JYxH9gcMnwxT4+MB4sPxOx/JMg9wi77FA13T9A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -161,13 +161,13 @@
       "Integrity": "72C/qDCGu+OwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -182,13 +182,13 @@
       "Integrity": "3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -203,13 +203,13 @@
       "Integrity": "qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs+Wu6U8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -224,13 +224,13 @@
       "Integrity": "O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD+3j0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -245,13 +245,13 @@
       "Integrity": "NDSZjIiMPRIoO7/w7+jHef8retP4riQa8PMj4BVRGok=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -266,13 +266,13 @@
       "Integrity": "4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -287,13 +287,13 @@
       "Integrity": "FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -308,13 +308,13 @@
       "Integrity": "z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -329,13 +329,13 @@
       "Integrity": "2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -350,13 +350,13 @@
       "Integrity": "8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "Integrity": "/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -392,13 +392,13 @@
       "Integrity": "a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "Integrity": "GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -434,13 +434,13 @@
       "Integrity": "NbFZxZLmBVNLzb/7B0WdFfb6+8jXHGX6XY190uwgbec=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -455,13 +455,13 @@
       "Integrity": "4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d+9/qNju20=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -476,13 +476,13 @@
       "Integrity": "5+ExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -497,13 +497,13 @@
       "Integrity": "p1dop4slefZhL4zG2pa6+2HUrOY1UUArGJXmet8Md9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -518,13 +518,13 @@
       "Integrity": "peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -539,13 +539,13 @@
       "Integrity": "puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -560,13 +560,13 @@
       "Integrity": "Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj+XFifSSqN4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -581,13 +581,13 @@
       "Integrity": "02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX+96Pt/88=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -602,13 +602,13 @@
       "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -623,13 +623,13 @@
       "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -644,13 +644,13 @@
       "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -665,13 +665,13 @@
       "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -686,13 +686,13 @@
       "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -707,13 +707,13 @@
       "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -749,13 +749,13 @@
       "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -770,13 +770,13 @@
       "Integrity": "vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -791,13 +791,13 @@
       "Integrity": "gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "Integrity": "KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -833,13 +833,13 @@
       "Integrity": "xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -854,13 +854,13 @@
       "Integrity": "EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -875,13 +875,13 @@
       "Integrity": "CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -896,13 +896,13 @@
       "Integrity": "Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -917,13 +917,13 @@
       "Integrity": "sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -938,13 +938,13 @@
       "Integrity": "6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -959,13 +959,13 @@
       "Integrity": "Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -980,13 +980,13 @@
       "Integrity": "c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1001,13 +1001,13 @@
       "Integrity": "ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/LICENSE",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1022,13 +1022,13 @@
       "Integrity": "ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1043,13 +1043,13 @@
       "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1064,13 +1064,13 @@
       "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1085,13 +1085,13 @@
       "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1106,13 +1106,13 @@
       "Integrity": "4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1127,13 +1127,13 @@
       "Integrity": "N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1148,13 +1148,13 @@
       "Integrity": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1169,13 +1169,13 @@
       "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1190,13 +1190,13 @@
       "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/LICENSE.md"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1232,13 +1232,13 @@
       "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.min.js"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1253,13 +1253,13 @@
       "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.min.map"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/LICENSE.txt",
+      "Identity": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/",
+      "ContentRoot": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1274,7 +1274,7 @@
       "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
       "Identity": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/scopedcss/bundle/Revalb.styles.css",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "546xh1x2e2",
-      "Integrity": "NYL5MiWHxDsa7IlO6X72+1fKBC6OindcVn1GTxE2M04=",
+      "Fingerprint": "xtonzhhglh",
+      "Integrity": "ddTjb1K3nc8MECYBtvP/4bpppXA99K9cHbhPAO5cTFA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/albumi/Albumi.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ze83txkih0",
-      "Integrity": "pZGIIaiUwsWdENQru0e/kdLbmSP3O0I+a9PPYzyZwxs=",
+      "Fingerprint": "72jwilye95",
+      "Integrity": "f45YOUFH37YAnZnImyYFAL5Fg6jp2Xoqb2DCIcbw5bc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -2619,54 +2619,30 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg",
+      "SourceId": "Revalb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/",
+      "BasePath": "_content/Revalb",
+      "RelativePath": "public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h2zapguout",
+      "Integrity": "91ZRxjlDAojWBN7mLBBU5IA09bP80gkpe14vPS5JJWQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg"
     }
   ],
   "Endpoints": [
-    {
-      "Route": "css/albumi/Albumi.546xh1x2e2.css",
-      "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/css/albumi/Albumi.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2894"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NYL5MiWHxDsa7IlO6X72+1fKBC6OindcVn1GTxE2M04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:43:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "546xh1x2e2"
-        },
-        {
-          "Name": "label",
-          "Value": "css/albumi/Albumi.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NYL5MiWHxDsa7IlO6X72+1fKBC6OindcVn1GTxE2M04="
-        }
-      ]
-    },
     {
       "Route": "css/albumi/Albumi.css",
       "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/css/albumi/Albumi.css",
@@ -2678,7 +2654,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2894"
+          "Value": "2902"
         },
         {
           "Name": "Content-Type",
@@ -2686,11 +2662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NYL5MiWHxDsa7IlO6X72+1fKBC6OindcVn1GTxE2M04=\""
+          "Value": "\"ddTjb1K3nc8MECYBtvP/4bpppXA99K9cHbhPAO5cTFA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:43:46 GMT"
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2700,7 +2676,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NYL5MiWHxDsa7IlO6X72+1fKBC6OindcVn1GTxE2M04="
+          "Value": "sha256-ddTjb1K3nc8MECYBtvP/4bpppXA99K9cHbhPAO5cTFA="
+        }
+      ]
+    },
+    {
+      "Route": "css/albumi/Albumi.xtonzhhglh.css",
+      "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/css/albumi/Albumi.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ddTjb1K3nc8MECYBtvP/4bpppXA99K9cHbhPAO5cTFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtonzhhglh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/albumi/Albumi.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ddTjb1K3nc8MECYBtvP/4bpppXA99K9cHbhPAO5cTFA="
         }
       ]
     },
@@ -2727,7 +2748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:25:27 GMT"
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,7 +2793,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:25:27 GMT"
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2787,6 +2808,51 @@
       ]
     },
     {
+      "Route": "css/site.72jwilye95.css",
+      "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f45YOUFH37YAnZnImyYFAL5Fg6jp2Xoqb2DCIcbw5bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:30:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72jwilye95"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f45YOUFH37YAnZnImyYFAL5Fg6jp2Xoqb2DCIcbw5bc="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/css/site.css",
       "Selectors": [],
@@ -2797,7 +2863,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "381"
+          "Value": "1443"
         },
         {
           "Name": "Content-Type",
@@ -2805,11 +2871,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pZGIIaiUwsWdENQru0e/kdLbmSP3O0I+a9PPYzyZwxs=\""
+          "Value": "\"f45YOUFH37YAnZnImyYFAL5Fg6jp2Xoqb2DCIcbw5bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:28:19 GMT"
+          "Value": "Sat, 07 Jun 2025 11:30:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2819,52 +2885,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pZGIIaiUwsWdENQru0e/kdLbmSP3O0I+a9PPYzyZwxs="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.ze83txkih0.css",
-      "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/css/site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "381"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pZGIIaiUwsWdENQru0e/kdLbmSP3O0I+a9PPYzyZwxs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:28:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ze83txkih0"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pZGIIaiUwsWdENQru0e/kdLbmSP3O0I+a9PPYzyZwxs="
+          "Value": "sha256-f45YOUFH37YAnZnImyYFAL5Fg6jp2Xoqb2DCIcbw5bc="
         }
       ]
     },
@@ -2952,7 +2973,7 @@
     },
     {
       "Route": "Identity/css/site.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/css/site.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2973,7 +2994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2989,7 +3010,7 @@
     },
     {
       "Route": "Identity/favicon.ico",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/favicon.ico",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3010,7 +3031,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3026,7 +3047,7 @@
     },
     {
       "Route": "Identity/js/site.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/js/site.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3047,7 +3068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3063,7 +3084,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3084,7 +3105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3100,7 +3121,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3121,7 +3142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3137,7 +3158,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3158,7 +3179,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3174,7 +3195,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3195,7 +3216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3211,7 +3232,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3232,7 +3253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3248,7 +3269,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3269,7 +3290,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3285,7 +3306,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3306,7 +3327,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3322,7 +3343,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3343,7 +3364,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3359,7 +3380,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3380,7 +3401,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3396,7 +3417,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3417,7 +3438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3433,7 +3454,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3454,7 +3475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3470,7 +3491,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3491,7 +3512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3507,7 +3528,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3528,7 +3549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3544,7 +3565,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3565,7 +3586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3581,7 +3602,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3602,7 +3623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3618,7 +3639,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3639,7 +3660,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3655,7 +3676,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3676,7 +3697,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3692,7 +3713,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3713,7 +3734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3729,7 +3750,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3750,7 +3771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3766,7 +3787,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3787,7 +3808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3803,7 +3824,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3824,7 +3845,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3840,7 +3861,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3861,7 +3882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3877,7 +3898,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3898,7 +3919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3914,7 +3935,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3935,7 +3956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3951,7 +3972,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3972,7 +3993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3988,7 +4009,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4009,7 +4030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4025,7 +4046,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4046,7 +4067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4062,7 +4083,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4083,7 +4104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4099,7 +4120,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4120,7 +4141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4136,7 +4157,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4157,7 +4178,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4173,7 +4194,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4194,7 +4215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4210,7 +4231,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4231,7 +4252,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4247,7 +4268,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4268,7 +4289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4284,7 +4305,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4305,7 +4326,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4321,7 +4342,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4342,7 +4363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4358,7 +4379,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4379,7 +4400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4395,7 +4416,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4416,7 +4437,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4432,7 +4453,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4453,7 +4474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4469,7 +4490,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4490,7 +4511,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4506,7 +4527,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4527,7 +4548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4543,7 +4564,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4564,7 +4585,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4580,7 +4601,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4601,7 +4622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4617,7 +4638,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4638,7 +4659,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4654,7 +4675,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4675,7 +4696,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4691,7 +4712,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/LICENSE",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/bootstrap/LICENSE",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/bootstrap/LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4712,7 +4733,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4728,7 +4749,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4749,7 +4770,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4765,7 +4786,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4786,7 +4807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4802,7 +4823,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4823,7 +4844,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4839,7 +4860,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4860,7 +4881,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4876,7 +4897,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4897,7 +4918,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4913,7 +4934,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4934,7 +4955,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4950,7 +4971,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4971,7 +4992,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4987,7 +5008,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/LICENSE.md",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5008,7 +5029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5024,7 +5045,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5045,7 +5066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5061,7 +5082,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.min.js",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5082,7 +5103,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5098,7 +5119,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.min.map",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5119,7 +5140,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5135,7 +5156,7 @@
     },
     {
       "Route": "Identity/lib/jquery/LICENSE.txt",
-      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.14/staticwebassets/V5/lib/jquery/LICENSE.txt",
+      "AssetFile": "/home/eldar33/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.16/staticwebassets/V5/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5156,7 +5177,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 04:55:02 GMT"
+          "Value": "Thu, 17 Apr 2025 03:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7243,7 +7264,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:27:17 GMT"
+          "Value": "Sat, 07 Jun 2025 07:57:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7288,7 +7309,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:27:17 GMT"
+          "Value": "Sat, 07 Jun 2025 07:57:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7325,7 +7346,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:23:07 GMT"
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7370,7 +7391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:23:07 GMT"
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7407,7 +7428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:27:30 GMT"
+          "Value": "Sat, 07 Jun 2025 07:57:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7452,7 +7473,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:27:30 GMT"
+          "Value": "Sat, 07 Jun 2025 07:57:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7489,7 +7510,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:23:07 GMT"
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7534,7 +7555,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:23:07 GMT"
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9927,6 +9948,88 @@
       ]
     },
     {
+      "Route": "public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.h2zapguout.svg",
+      "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"91ZRxjlDAojWBN7mLBBU5IA09bP80gkpe14vPS5JJWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2zapguout"
+        },
+        {
+          "Name": "label",
+          "Value": "public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-91ZRxjlDAojWBN7mLBBU5IA09bP80gkpe14vPS5JJWQ="
+        }
+      ]
+    },
+    {
+      "Route": "public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg",
+      "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"91ZRxjlDAojWBN7mLBBU5IA09bP80gkpe14vPS5JJWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 08:21:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-91ZRxjlDAojWBN7mLBBU5IA09bP80gkpe14vPS5JJWQ="
+        }
+      ]
+    },
+    {
       "Route": "Revalb.bundle.scp.css",
       "AssetFile": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/scopedcss/projectbundle/Revalb.bundle.scp.css",
       "Selectors": [],
@@ -9949,7 +10052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:23:07 GMT"
+          "Value": "Sat, 07 Jun 2025 10:29:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9986,7 +10089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:23:07 GMT"
+          "Value": "Sat, 07 Jun 2025 10:29:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10031,7 +10134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:23:07 GMT"
+          "Value": "Sat, 07 Jun 2025 10:29:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10076,7 +10179,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 18:23:07 GMT"
+          "Value": "Sat, 07 Jun 2025 10:29:05 GMT"
         },
         {
           "Name": "Cache-Control",

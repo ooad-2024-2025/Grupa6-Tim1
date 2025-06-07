@@ -253,6 +253,10 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/wwwroot/public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg",
+      "PackagePath": "staticwebassets/public/427067398-6abdefe5-dd62-4d10-9460-171ae26f31bf.svg"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

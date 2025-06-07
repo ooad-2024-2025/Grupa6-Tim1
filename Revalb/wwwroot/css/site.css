@@ -22,6 +22,76 @@ html {
 }
 
 body {
-  background-color: #143034;
   margin-bottom: 60px;
 }
+
+.login-background {
+  height: 100vh;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  background: #ffffff;
+}
+
+.login-card h2 {
+  font-weight: bold;
+  color: #032830;
+}
+
+.login-input {
+  border: none;
+  border-bottom: 2px solid #ccc;
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 1rem;
+  background-color: transparent;
+}
+
+.login-input:focus {
+  border-color: #032830;
+  box-shadow: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.login-btn {
+  background: linear-gradient(90deg, #034d58, #056b6d);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 1.1rem;
+  transition: background 0.3s;
+}
+
+.login-btn:hover {
+  background: linear-gradient(90deg, #056b6d, #034d58);
+}
+
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.user-pill {
+  background-color: #ffffff;
+  border: none;
+  display: flex;
+  align-items: center;
+  border-radius: 50px;
+  padding: 8px 16px;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  background-color: #034d58; /* Tamnija plava za avatar */
+  border-radius: 50%;
+}
+
