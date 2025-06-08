@@ -228,6 +228,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29yaXNuaWNpL1Byb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Korisniks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29yaXNuaWtzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Korisniks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29yaXNuaWtzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Korisniks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29yaXNuaWtzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Korisniks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29yaXNuaWtzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Korisniks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29yaXNuaWtzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Views/Pjesmas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGplc21hcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

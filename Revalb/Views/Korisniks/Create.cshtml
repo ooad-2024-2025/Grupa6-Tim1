@@ -1,0 +1,40 @@
+@model Revalb.Models.Korisnik
+
+@{
+    ViewData["Title"] = "Create User";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4">Add New User</h1>
+
+    <form asp-action="Create" class="needs-validation" novalidate>
+        <div class="mb-3">
+            <label asp-for="Ime" class="form-label"></label>
+            <input asp-for="Ime" class="form-control" />
+            <span asp-validation-for="Ime" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Prezime" class="form-label"></label>
+            <input asp-for="Prezime" class="form-control" />
+            <span asp-validation-for="Prezime" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Nadimak" class="form-label"></label>
+            <input asp-for="Nadimak" class="form-control" />
+            <span asp-validation-for="Nadimak" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="UserName" class="form-label"></label>
+            <input asp-for="UserName" class="form-control" />
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+        
+        <button type="submit" class="btn btn-success">Save</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>
