@@ -9,11 +9,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="070100c6-7493-4a83-985e-ca537f5780ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Revalb/Controllers/KorisniciController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Revalb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Revalb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revalb/Areas/Identity/Pages/Account/ArtistProfile.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Areas/Identity/Pages/Account/ArtistProfile.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/AlbumsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/AlbumsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/KorisniciController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/KorisniciController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/KorisniksController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/KorisniksController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/PjesmasController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/PjesmasController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/Controllers/RecenzijasController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Controllers/RecenzijasController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/Views/Shared/_Layout.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.endpoints.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -22,6 +27,14 @@
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/Revalb.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/ref/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/ref/Revalb.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/refint/Revalb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/refint/Revalb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.build.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Revalb.props" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Revalb.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Revalb.props" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Revalb.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revalb/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Revalb/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +66,11 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/cd856ab0648a6edbcf5e9ac9734c94fdb4487775fb823f1e3e32bf308d62ec33/RazorPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Models/Korisnik.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/Models/Korisnik.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets.pack.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets.pack.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets.pack.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Revalb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -64,23 +82,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.Revalb: http.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Launch Settings Profile.Revalb: https.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;NedimAlbumiFrontend&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/eldar33/Projects/OOAD&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.Revalb: http.executor": "Run",
+    ".NET Launch Settings Profile.Revalb: https.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "MainReplica",
+    "last_opened_file_path": "/home/eldar33/Projects/OOAD",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Revalb: https">
     <configuration name="Revalb: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Revalb/Revalb.csproj" />
@@ -122,6 +140,7 @@
       <updated>1748245978250</updated>
       <workItem from="1748245980571" duration="514000" />
       <workItem from="1749307954087" duration="4624000" />
+      <workItem from="1749383831704" duration="5101000" />
     </task>
     <task id="LOCAL-00001" summary="Uradjen auth, zapocet je do za artiste">
       <option name="closed" value="true" />
@@ -155,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749310548746</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005">
+      <option name="closed" value="true" />
+      <created>1749316603748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749316603748</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

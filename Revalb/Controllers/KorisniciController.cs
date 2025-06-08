@@ -5,7 +5,7 @@ using Revalb.Models;
 
 namespace Revalb.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "Administrator")]
     public class KorisniciController : Controller
     {
         private readonly UserManager<Korisnik> _userManager;

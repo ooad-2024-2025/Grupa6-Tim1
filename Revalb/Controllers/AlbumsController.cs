@@ -7,7 +7,7 @@ using Revalb.Models;
 
 namespace Revalb.Controllers
 {
-    [Authorize(Roles = "Artist")]
+    [Authorize(Roles = "Artist, Administrator")]
     public class AlbumsController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -23,10 +23,19 @@ namespace Revalb.Controllers
         public async Task<IActionResult> Index()
         {
             var user = await _userManager.GetUserAsync(User);
-            var albums = await _context.Albumi
-                .Where(a => a.IdArtist == user.Id)
-                .ToListAsync();
-            return View(albums);
+
+            if (await _userManager.IsInRoleAsync(user, "Administrator"))
+            {
+                // Admin vidi sve albume
+                return View(await _context.Albumi.ToListAsync());
+            }
+            else
+            {
+                // Artist vidi samo svoje albume
+                return View(await _context.Albumi
+                    .Where(a => a.IdArtist == user.Id)
+                    .ToListAsync());
+            }
         }
 
         // GET: Albums/Details/5

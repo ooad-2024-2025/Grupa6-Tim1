@@ -1,11 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Revalb.Data;
 using Revalb.Models;
 using Microsoft.AspNetCore.Identity;
 
 namespace Revalb.Controllers
-{
+{   [Authorize(Roles = "Administrator")]
     public class KorisniksController : Controller
     {
         private readonly ApplicationDbContext _context;

@@ -11,7 +11,7 @@ using Revalb.Models;
 
 namespace Revalb.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "Administrator")]
     public class PjesmasController : Controller
     {
         private readonly ApplicationDbContext _context;
