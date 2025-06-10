@@ -1,27 +1,81 @@
-﻿@using Microsoft.AspNetCore.Identity
-@inject UserManager<Korisnik> UserManager
-@inject SignInManager<Korisnik> SignInManager
+﻿@model Revalb.Models.ChartViewModel
 
-@if (SignInManager.IsSignedIn(User))
-{
-    if (User.IsInRole("Administrator"))
-    {
-        <h1>Ti si Administrator</h1>
-    }
-    else if (User.IsInRole("Recenzent"))
-    {
-        <h1>Ti si Recenzent</h1>
-    }
-    else if (User.IsInRole("Artist"))
-    {
-        <h1>Ti si Artist</h1>
-    }
-    else
-    {
-        <h1>Ti nemaš rolu!</h1>
-    }
-}
-else
-{
-    <h1>Nisi prijavljen.</h1>
-}
+<div class="bg-[#0d2b2b] min-h-screen px-8 py-6 text-white font-sans">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+        <!-- Top Tracks -->
+        <div class="bg-[#111827] rounded-2xl p-5 shadow-lg">
+            <h2 class="text-xl font-bold mb-4">Top 10 Tracks</h2>
+            <table class="w-full table-auto">
+                <thead>
+                <tr class="text-gray-400 text-left text-sm">
+                    <th class="w-10">#</th>
+                    <th>Title</th>
+                </tr>
+                </thead>
+                <tbody class="text-sm">
+                @foreach (var track in Model.TopTracks)
+                {
+                    <tr class="hover:bg-gray-800 transition-all">
+                        <td class="py-2 font-bold">@track.Position</td>
+                        <td class="flex items-center gap-3 py-2">
+                            <img src="@track.ImageUrl" alt="cover" class="w-10 h-10 rounded-md" />
+                            <div>
+                                <div class="text-white font-medium leading-none">@track.Title</div>
+                                <div class="text-gray-400 text-xs">@track.Artist</div>
+                            </div>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Top Artists -->
+        <div class="bg-[#450a0a] rounded-2xl p-5 shadow-lg">
+            <h2 class="text-xl font-bold mb-4">Top 10 Artists</h2>
+            <table class="w-full table-auto">
+                <thead>
+                <tr class="text-gray-300 text-left text-sm">
+                    <th class="w-10">#</th>
+                    <th>Artist</th>
+                </tr>
+                </thead>
+                <tbody class="text-sm">
+                @foreach (var artist in Model.TopArtists)
+                {
+                    <tr class="hover:bg-gray-800 transition-all">
+                        <td class="py-2 font-bold">@artist.Position</td>
+                        <td class="flex items-center gap-3 py-2">
+                            <img src="@artist.ImageUrl" alt="artist" class="w-10 h-10 rounded-md" />
+                            <div class="text-white font-medium leading-none">@artist.Title</div>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- Music News Section -->
+       
+    </div>
+    <div class="mt-10">
+        <h2 class="text-2xl font-bold mb-4 text-white">Latest Music News</h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            @foreach (var article in Model.News)
+            {
+                <a href="@article.Url" target="_blank" class="block bg-gray-800 hover:bg-gray-700 transition-all rounded-xl overflow-hidden shadow-lg">
+                    <img src="@(string.IsNullOrEmpty(article.ImageUrl) ? "/img/placeholder.png" : article.ImageUrl)" alt="News image" class="w-full h-48 object-cover" />
+                    <div class="p-4">
+                        <h3 class="text-white font-semibold text-lg leading-tight mb-2">@article.Title</h3>
+                        <p class="text-gray-400 text-sm mb-2">@article.Description</p>
+                        <div class="text-gray-500 text-xs flex justify-between">
+                            <span>@article.Source</span>
+                            <span>@article.PublishedAt.ToString("dd.MM.yyyy")</span>
+                        </div>
+                    </div>
+                </a>
+            }
+        </div>
+    </div>
+</div>

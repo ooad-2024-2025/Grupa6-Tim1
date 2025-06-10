@@ -810,7 +810,6 @@ D:/OOAD Revalb/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Syste
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/appsettings.Development.json
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/appsettings.json
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.runtime.json
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.endpoints.json
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Revalb
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Revalb.deps.json
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Revalb.runtimeconfig.json
@@ -1083,14 +1082,11 @@ D:/OOAD Revalb/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Syste
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/scopedcss/projectbundle/Revalb.bundle.scp.css
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets.build.json
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets.development.json
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets.build.endpoints.json
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssets.props
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.build.Revalb.props
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Revalb.props
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Revalb.props
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets.pack.json
-/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/Revalb.csproj.Up2Date
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/Revalb.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/refint/Revalb.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/Revalb.pdb
@@ -1121,3 +1117,7 @@ D:/OOAD Revalb/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win/lib/net7.0/Syste
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/bin/Debug/net8.0/Revalb.staticwebassets.endpoints.json
+/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/staticwebassets/msbuild.Revalb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/eldar33/Faks/OOAD/Grupa6-Tim1/Revalb/obj/Debug/net8.0/Revalb.csproj.Up2Date

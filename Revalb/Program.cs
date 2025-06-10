@@ -2,8 +2,14 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Revalb.Data;
 using Revalb.Models;
+using Revalb.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddHttpClient<LastFmService>();
+builder.Services.AddHttpClient<MusicNewsService>();
+
+
 
 // 🔗 Dodavanje konekcije prema SQL Server bazi
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")

@@ -1,19 +1,43 @@
-@page
-@model Revalb.Views.Charts.Index
+@model Revalb.Models.ChartViewModel
 
-@{
-    Layout = null;
-}
+<div class="min-h-screen px-8 py-6 text-white">
+    <h1 class="text-3xl font-bold mb-6">Charts</h1>
 
-<!DOCTYPE html>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <!-- Tracks -->
+        <div class="bg-slate-900 rounded-xl p-4">
+            <h2 class="text-xl font-semibold mb-4">Top Tracks</h2>
+            <ul class="space-y-3">
+                @foreach (var track in Model.TopTracks)
+                {
+                    <li class="flex items-center space-x-3">
+                        <span class="w-5 font-bold">@track.Position</span>
+                        <img src="@track.ImageUrl" class="w-10 h-10 rounded" />
+sadf                       <div>
+                            <div class="font-semibold text-sm">@track.Title</div>
+                            <div class="text-gray-400 text-xs">@track.Artist</div>
+                        </div>
+                    </li>
+                }
+            </ul>
+        </div>
 
-<html>
-<head>
-    <title></title>
-</head>
-<body>
-<div>
-    
+        <!-- Artists -->
+        <div class="bg-slate-900 rounded-xl p-4">
+            <h2 class="text-xl font-semibold mb-4">Top Artists</h2>
+            <ul class="space-y-3">
+                @foreach (var artist in Model.TopArtists)
+                {
+                    <li class="flex items-center space-x-3">
+                        <span class="w-5 font-bold">@artist.Position</span>
+                        <img src="@artist.ImageUrl" class="w-10 h-10 rounded" />
+                        <div>
+                            <div class="font-semibold text-sm">@artist.Title</div>
+                            <div class="text-gray-400 text-xs">@artist.Artist</div>
+                        </div>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
 </div>
-</body>
-</html>
