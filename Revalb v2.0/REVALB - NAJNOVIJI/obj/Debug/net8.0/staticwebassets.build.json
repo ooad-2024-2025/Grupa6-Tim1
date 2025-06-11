@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UxFnGManAvS3B+uPI21WO/9gHEoIbyFbjQzZtQ+ZSCM=",
+  "Hash": "IOYPPOyUsMGP2snofcTSFirXB4QW71GwuGD0sBGY/uw=",
   "Source": "REVALB",
   "BasePath": "_content/REVALB",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "REVALB\\wwwroot",
       "Source": "REVALB",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\hamza\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\REVALB.styles.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\REVALB.styles.css",
       "SourceId": "REVALB",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "REVALB#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "/nL6KRoVw3wGLpP8UTD93rMT7eAAGL59ZWlrWXMnmAo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\REVALB.styles.css"
+      "OriginalItemSpec": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\REVALB.styles.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\REVALB.bundle.scp.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\REVALB.bundle.scp.css",
       "SourceId": "REVALB",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "REVALB#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "/nL6KRoVw3wGLpP8UTD93rMT7eAAGL59ZWlrWXMnmAo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\REVALB.bundle.scp.css"
+      "OriginalItemSpec": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\REVALB.bundle.scp.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\css\\site.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\css\\site.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\favicon.ico",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\favicon.ico",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\icon.svg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\icon.svg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "icons/icon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\icon.svg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\R - Black.svg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\R - Black.svg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "icons/R - Black#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\R - Black.svg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\r_white.svg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\r_white.svg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "icons/r_white#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\r_white.svg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black with slogan.svg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black with slogan.svg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "icons/Revalb - Black with slogan#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\Revalb - Black with slogan.svg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black.svg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black.svg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "icons/Revalb - Black#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\Revalb - Black.svg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - preview.pdf",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - preview.pdf",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "icons/Revalb - preview#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\Revalb - preview.pdf"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White with slogan.svg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White with slogan.svg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "icons/Revalb - White with slogan#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\Revalb - White with slogan.svg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White.svg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White.svg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "icons/Revalb - White#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\Revalb - White.svg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\js\\site.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\js\\site.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2600,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2621,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2642,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2663,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2684,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2705,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2726,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2747,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/30b06083-5957-450a-b1c4-387622a3eff5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2768,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\48b966c5-6e3e-4390-af00-f4abeb2494a4.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\48b966c5-6e3e-4390-af00-f4abeb2494a4.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/48b966c5-6e3e-4390-af00-f4abeb2494a4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2789,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\48b966c5-6e3e-4390-af00-f4abeb2494a4.png"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\49bffb24-9e1d-4c61-a684-a9e91306e890.jpg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\49bffb24-9e1d-4c61-a684-a9e91306e890.jpg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/49bffb24-9e1d-4c61-a684-a9e91306e890#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\49bffb24-9e1d-4c61-a684-a9e91306e890.jpg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\5333adb1-21cb-4e2a-aee3-2244ff072e9d.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\5333adb1-21cb-4e2a-aee3-2244ff072e9d.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/5333adb1-21cb-4e2a-aee3-2244ff072e9d#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2831,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\5333adb1-21cb-4e2a-aee3-2244ff072e9d.png"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\609bc35e-d691-4cfa-96ef-352c4abf67bb.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\609bc35e-d691-4cfa-96ef-352c4abf67bb.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/609bc35e-d691-4cfa-96ef-352c4abf67bb#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2852,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\609bc35e-d691-4cfa-96ef-352c4abf67bb.png"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\6d4a1f76-cca4-4630-bd73-f5f168a9d252.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\6d4a1f76-cca4-4630-bd73-f5f168a9d252.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/6d4a1f76-cca4-4630-bd73-f5f168a9d252#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\6d4a1f76-cca4-4630-bd73-f5f168a9d252.png"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/899be3f9-004d-4f31-9689-c915860a6b82#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2894,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2915,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\ea9029c3-3247-4125-bd30-acd3a68042f4.jpg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\ea9029c3-3247-4125-bd30-acd3a68042f4.jpg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/ea9029c3-3247-4125-bd30-acd3a68042f4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2936,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\ea9029c3-3247-4125-bd30-acd3a68042f4.jpg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\f9ae4847-64f8-45f7-be43-a551de01a5cc.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\f9ae4847-64f8-45f7-be43-a551de01a5cc.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/covers/f9ae4847-64f8-45f7-be43-a551de01a5cc#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2957,10 +2957,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\f9ae4847-64f8-45f7-be43-a551de01a5cc.png"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\2972665c-9a47-410a-898d-2e3cd2819237.jpg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\2972665c-9a47-410a-898d-2e3cd2819237.jpg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/profile/2972665c-9a47-410a-898d-2e3cd2819237#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -2978,10 +2978,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profile\\2972665c-9a47-410a-898d-2e3cd2819237.jpg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\3065f77b-9b45-4167-a84c-a644df8e71d4.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\3065f77b-9b45-4167-a84c-a644df8e71d4.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/profile/3065f77b-9b45-4167-a84c-a644df8e71d4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2999,10 +2999,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profile\\3065f77b-9b45-4167-a84c-a644df8e71d4.png"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\babb91be-eb63-4a70-94fe-96148b85f4b0.jpg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\babb91be-eb63-4a70-94fe-96148b85f4b0.jpg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/profile/babb91be-eb63-4a70-94fe-96148b85f4b0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -3020,10 +3020,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profile\\babb91be-eb63-4a70-94fe-96148b85f4b0.jpg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/profile/df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -3041,10 +3041,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profile\\df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.png"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\ee63b280-7258-4996-8d84-0cd14b4a37aa.jpg",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\ee63b280-7258-4996-8d84-0cd14b4a37aa.jpg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/profile/ee63b280-7258-4996-8d84-0cd14b4a37aa#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -3062,10 +3062,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profile\\ee63b280-7258-4996-8d84-0cd14b4a37aa.jpg"
     },
     {
-      "Identity": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\fd03937b-d998-4d16-ab56-a86508060956.png",
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\fd03937b-d998-4d16-ab56-a86508060956.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
       "BasePath": "_content/REVALB",
       "RelativePath": "uploads/profile/fd03937b-d998-4d16-ab56-a86508060956#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -3086,7 +3086,7 @@
   "Endpoints": [
     {
       "Route": "css/site.8k4w0b6bra.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3131,7 +3131,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3168,7 +3168,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3213,7 +3213,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3250,7 +3250,7 @@
     },
     {
       "Route": "icons/icon.h2zapguout.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\icon.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3295,7 +3295,7 @@
     },
     {
       "Route": "icons/icon.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\icon.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3332,7 +3332,7 @@
     },
     {
       "Route": "icons/R - Black.j6a20yrk0r.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\R - Black.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\R - Black.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3377,7 +3377,7 @@
     },
     {
       "Route": "icons/R - Black.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\R - Black.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\R - Black.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3414,7 +3414,7 @@
     },
     {
       "Route": "icons/r_white.53ezctc417.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\r_white.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\r_white.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3459,7 +3459,7 @@
     },
     {
       "Route": "icons/r_white.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\r_white.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\r_white.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3496,7 +3496,7 @@
     },
     {
       "Route": "icons/Revalb - Black with slogan.4yxymey2zk.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black with slogan.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black with slogan.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3541,7 +3541,7 @@
     },
     {
       "Route": "icons/Revalb - Black with slogan.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black with slogan.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black with slogan.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3578,7 +3578,7 @@
     },
     {
       "Route": "icons/Revalb - Black.9srq9x1r02.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3623,7 +3623,7 @@
     },
     {
       "Route": "icons/Revalb - Black.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - Black.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3660,7 +3660,7 @@
     },
     {
       "Route": "icons/Revalb - preview.2s8xbatndh.pdf",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - preview.pdf",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - preview.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3705,7 +3705,7 @@
     },
     {
       "Route": "icons/Revalb - preview.pdf",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - preview.pdf",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - preview.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3742,7 +3742,7 @@
     },
     {
       "Route": "icons/Revalb - White with slogan.h2zapguout.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White with slogan.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White with slogan.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3787,7 +3787,7 @@
     },
     {
       "Route": "icons/Revalb - White with slogan.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White with slogan.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White with slogan.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3824,7 +3824,7 @@
     },
     {
       "Route": "icons/Revalb - White.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3861,7 +3861,7 @@
     },
     {
       "Route": "icons/Revalb - White.u05bz3gs9n.svg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White.svg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\icons\\Revalb - White.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6126,7 +6126,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6163,7 +6163,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6208,7 +6208,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6245,7 +6245,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6290,7 +6290,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6327,7 +6327,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6372,7 +6372,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6409,7 +6409,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6454,7 +6454,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6491,7 +6491,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6536,7 +6536,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6573,7 +6573,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6618,7 +6618,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6655,7 +6655,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6700,7 +6700,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6737,7 +6737,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6782,7 +6782,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6819,7 +6819,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6864,7 +6864,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6909,7 +6909,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6946,7 +6946,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6983,7 +6983,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7028,7 +7028,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7065,7 +7065,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7110,7 +7110,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7147,7 +7147,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7192,7 +7192,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7229,7 +7229,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7274,7 +7274,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7311,7 +7311,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7348,7 +7348,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7385,7 +7385,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7430,7 +7430,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7475,7 +7475,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7520,7 +7520,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7565,7 +7565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7602,7 +7602,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7647,7 +7647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7684,7 +7684,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7721,7 +7721,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7758,7 +7758,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7803,7 +7803,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7848,7 +7848,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7893,7 +7893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7930,7 +7930,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7975,7 +7975,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8012,7 +8012,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8049,7 +8049,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8086,7 +8086,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8131,7 +8131,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8176,7 +8176,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8213,7 +8213,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8258,7 +8258,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8295,7 +8295,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8340,7 +8340,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8377,7 +8377,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8414,7 +8414,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8459,7 +8459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8504,7 +8504,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8541,7 +8541,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8586,7 +8586,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8623,7 +8623,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8660,7 +8660,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8705,7 +8705,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8742,7 +8742,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8787,7 +8787,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8832,7 +8832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8869,7 +8869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8914,7 +8914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8951,7 +8951,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8996,7 +8996,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9041,7 +9041,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9078,7 +9078,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9123,7 +9123,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9160,7 +9160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9197,7 +9197,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9242,7 +9242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9279,7 +9279,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9324,7 +9324,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9361,7 +9361,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9398,7 +9398,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9443,7 +9443,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9488,7 +9488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9525,7 +9525,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9570,7 +9570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9607,7 +9607,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9644,7 +9644,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9681,7 +9681,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9726,7 +9726,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9771,7 +9771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9816,7 +9816,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9853,7 +9853,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9898,7 +9898,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9943,7 +9943,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9980,7 +9980,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10025,7 +10025,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10070,7 +10070,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10107,7 +10107,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10144,7 +10144,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10189,7 +10189,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10226,7 +10226,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10271,7 +10271,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10308,7 +10308,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10353,7 +10353,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10390,7 +10390,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10427,7 +10427,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10472,7 +10472,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10509,7 +10509,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10554,7 +10554,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10591,7 +10591,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10636,7 +10636,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10681,7 +10681,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10718,7 +10718,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10763,7 +10763,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10800,7 +10800,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10845,7 +10845,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10882,7 +10882,7 @@
     },
     {
       "Route": "REVALB.2fmmow8tt7.bundle.scp.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\REVALB.bundle.scp.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\REVALB.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10927,7 +10927,7 @@
     },
     {
       "Route": "REVALB.2fmmow8tt7.styles.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\REVALB.styles.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\REVALB.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10972,7 +10972,7 @@
     },
     {
       "Route": "REVALB.bundle.scp.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\REVALB.bundle.scp.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\REVALB.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11009,7 +11009,7 @@
     },
     {
       "Route": "REVALB.styles.css",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\REVALB.styles.css",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\REVALB.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11046,7 +11046,7 @@
     },
     {
       "Route": "uploads/covers/30b06083-5957-450a-b1c4-387622a3eff5.ifrga5e2u7.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11091,7 +11091,7 @@
     },
     {
       "Route": "uploads/covers/30b06083-5957-450a-b1c4-387622a3eff5.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11128,7 +11128,7 @@
     },
     {
       "Route": "uploads/covers/48b966c5-6e3e-4390-af00-f4abeb2494a4.0s3pxth7jz.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\48b966c5-6e3e-4390-af00-f4abeb2494a4.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\48b966c5-6e3e-4390-af00-f4abeb2494a4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11173,7 +11173,7 @@
     },
     {
       "Route": "uploads/covers/48b966c5-6e3e-4390-af00-f4abeb2494a4.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\48b966c5-6e3e-4390-af00-f4abeb2494a4.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\48b966c5-6e3e-4390-af00-f4abeb2494a4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11210,7 +11210,7 @@
     },
     {
       "Route": "uploads/covers/49bffb24-9e1d-4c61-a684-a9e91306e890.7d4g81o3lg.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\49bffb24-9e1d-4c61-a684-a9e91306e890.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\49bffb24-9e1d-4c61-a684-a9e91306e890.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11255,7 +11255,7 @@
     },
     {
       "Route": "uploads/covers/49bffb24-9e1d-4c61-a684-a9e91306e890.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\49bffb24-9e1d-4c61-a684-a9e91306e890.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\49bffb24-9e1d-4c61-a684-a9e91306e890.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11292,7 +11292,7 @@
     },
     {
       "Route": "uploads/covers/5333adb1-21cb-4e2a-aee3-2244ff072e9d.g6s585b55d.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\5333adb1-21cb-4e2a-aee3-2244ff072e9d.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\5333adb1-21cb-4e2a-aee3-2244ff072e9d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11337,7 +11337,7 @@
     },
     {
       "Route": "uploads/covers/5333adb1-21cb-4e2a-aee3-2244ff072e9d.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\5333adb1-21cb-4e2a-aee3-2244ff072e9d.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\5333adb1-21cb-4e2a-aee3-2244ff072e9d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11374,7 +11374,7 @@
     },
     {
       "Route": "uploads/covers/609bc35e-d691-4cfa-96ef-352c4abf67bb.bapib32kgl.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\609bc35e-d691-4cfa-96ef-352c4abf67bb.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\609bc35e-d691-4cfa-96ef-352c4abf67bb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11419,7 +11419,7 @@
     },
     {
       "Route": "uploads/covers/609bc35e-d691-4cfa-96ef-352c4abf67bb.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\609bc35e-d691-4cfa-96ef-352c4abf67bb.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\609bc35e-d691-4cfa-96ef-352c4abf67bb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11456,7 +11456,7 @@
     },
     {
       "Route": "uploads/covers/6d4a1f76-cca4-4630-bd73-f5f168a9d252.pezghjua2f.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\6d4a1f76-cca4-4630-bd73-f5f168a9d252.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\6d4a1f76-cca4-4630-bd73-f5f168a9d252.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11501,7 +11501,7 @@
     },
     {
       "Route": "uploads/covers/6d4a1f76-cca4-4630-bd73-f5f168a9d252.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\6d4a1f76-cca4-4630-bd73-f5f168a9d252.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\6d4a1f76-cca4-4630-bd73-f5f168a9d252.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11538,7 +11538,7 @@
     },
     {
       "Route": "uploads/covers/899be3f9-004d-4f31-9689-c915860a6b82.669ihyyhwu.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11583,7 +11583,7 @@
     },
     {
       "Route": "uploads/covers/899be3f9-004d-4f31-9689-c915860a6b82.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11620,7 +11620,7 @@
     },
     {
       "Route": "uploads/covers/dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.4hy8qai6e8.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11665,7 +11665,7 @@
     },
     {
       "Route": "uploads/covers/dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11702,7 +11702,7 @@
     },
     {
       "Route": "uploads/covers/ea9029c3-3247-4125-bd30-acd3a68042f4.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\ea9029c3-3247-4125-bd30-acd3a68042f4.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\ea9029c3-3247-4125-bd30-acd3a68042f4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11739,7 +11739,7 @@
     },
     {
       "Route": "uploads/covers/ea9029c3-3247-4125-bd30-acd3a68042f4.vbyoq1rbox.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\ea9029c3-3247-4125-bd30-acd3a68042f4.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\ea9029c3-3247-4125-bd30-acd3a68042f4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11784,7 +11784,7 @@
     },
     {
       "Route": "uploads/covers/f9ae4847-64f8-45f7-be43-a551de01a5cc.lvqjmfarxo.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\f9ae4847-64f8-45f7-be43-a551de01a5cc.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\f9ae4847-64f8-45f7-be43-a551de01a5cc.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11829,7 +11829,7 @@
     },
     {
       "Route": "uploads/covers/f9ae4847-64f8-45f7-be43-a551de01a5cc.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\f9ae4847-64f8-45f7-be43-a551de01a5cc.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\f9ae4847-64f8-45f7-be43-a551de01a5cc.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11866,7 +11866,7 @@
     },
     {
       "Route": "uploads/profile/2972665c-9a47-410a-898d-2e3cd2819237.5s19x7wov3.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\2972665c-9a47-410a-898d-2e3cd2819237.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\2972665c-9a47-410a-898d-2e3cd2819237.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11911,7 +11911,7 @@
     },
     {
       "Route": "uploads/profile/2972665c-9a47-410a-898d-2e3cd2819237.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\2972665c-9a47-410a-898d-2e3cd2819237.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\2972665c-9a47-410a-898d-2e3cd2819237.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11948,7 +11948,7 @@
     },
     {
       "Route": "uploads/profile/3065f77b-9b45-4167-a84c-a644df8e71d4.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\3065f77b-9b45-4167-a84c-a644df8e71d4.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\3065f77b-9b45-4167-a84c-a644df8e71d4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11985,7 +11985,7 @@
     },
     {
       "Route": "uploads/profile/3065f77b-9b45-4167-a84c-a644df8e71d4.rt35bot7ss.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\3065f77b-9b45-4167-a84c-a644df8e71d4.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\3065f77b-9b45-4167-a84c-a644df8e71d4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12030,7 +12030,7 @@
     },
     {
       "Route": "uploads/profile/babb91be-eb63-4a70-94fe-96148b85f4b0.5s19x7wov3.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\babb91be-eb63-4a70-94fe-96148b85f4b0.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\babb91be-eb63-4a70-94fe-96148b85f4b0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12075,7 +12075,7 @@
     },
     {
       "Route": "uploads/profile/babb91be-eb63-4a70-94fe-96148b85f4b0.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\babb91be-eb63-4a70-94fe-96148b85f4b0.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\babb91be-eb63-4a70-94fe-96148b85f4b0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12112,7 +12112,7 @@
     },
     {
       "Route": "uploads/profile/df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12149,7 +12149,7 @@
     },
     {
       "Route": "uploads/profile/df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.veqeor2kxz.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\df2a8ec3-1ea9-4fc8-8bf0-a18541905fbf.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12194,7 +12194,7 @@
     },
     {
       "Route": "uploads/profile/ee63b280-7258-4996-8d84-0cd14b4a37aa.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\ee63b280-7258-4996-8d84-0cd14b4a37aa.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\ee63b280-7258-4996-8d84-0cd14b4a37aa.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12231,7 +12231,7 @@
     },
     {
       "Route": "uploads/profile/ee63b280-7258-4996-8d84-0cd14b4a37aa.kzlmgbvt5z.jpg",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\ee63b280-7258-4996-8d84-0cd14b4a37aa.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\ee63b280-7258-4996-8d84-0cd14b4a37aa.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12276,7 +12276,7 @@
     },
     {
       "Route": "uploads/profile/fd03937b-d998-4d16-ab56-a86508060956.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\fd03937b-d998-4d16-ab56-a86508060956.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\fd03937b-d998-4d16-ab56-a86508060956.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12313,7 +12313,7 @@
     },
     {
       "Route": "uploads/profile/fd03937b-d998-4d16-ab56-a86508060956.qxf1ez44ms.png",
-      "AssetFile": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\fd03937b-d998-4d16-ab56-a86508060956.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\profile\\fd03937b-d998-4d16-ab56-a86508060956.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -136,7 +136,7 @@ namespace REVALB.Controllers
         [HttpPost]
         [Authorize(Roles = "Artist")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, Album album, IFormFile? CoverImageFile)
+        public async Task<IActionResult> Edit(int id, Album album, IFormFile? CoverImageFile, DateTime? ReleaseDate)
         {
             if (id != album.Id)
                 return NotFound();
@@ -164,6 +164,20 @@ namespace REVALB.Controllers
             existing.Title = album.Title;
             existing.Description = album.Description;
             existing.AudioPreviewURL = album.AudioPreviewURL;
+
+            if (existing.ScheduledAlbum != null)
+            {
+                existing.ScheduledAlbum.ScheduledFor = ReleaseDate ?? DateTime.Now;
+
+            }
+            else
+            {
+                existing.ScheduledAlbum = new ScheduledAlbum
+                {
+                    ScheduledFor = album.ReleaseDate ?? DateTime.Now
+                };
+            }
+
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));

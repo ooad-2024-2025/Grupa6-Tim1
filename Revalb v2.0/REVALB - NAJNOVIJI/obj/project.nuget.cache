@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0r5iYcCZSVM=",
+  "dgSpecHash": "5xdbnkzgLlo=",
   "success": true,
-  "projectFilePath": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\REVALB.csproj",
+  "projectFilePath": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\REVALB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamza\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hamza\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

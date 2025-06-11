@@ -17,165 +17,165 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = REVALB
 build_property.RootNamespace = REVALB
-build_property.ProjectDir = D:\ETF\II godina\revalb - final\REVALB - NAJNOVIJI\
+build_property.ProjectDir = D:\ETF\II godina\4 semestar\OOAD\Projekat\Grupa6-Tim1\Revalb v2.0\REVALB - NAJNOVIJI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ETF\II godina\revalb - final\REVALB - NAJNOVIJI
+build_property.MSBuildProjectDirectory = D:\ETF\II godina\4 semestar\OOAD\Projekat\Grupa6-Tim1\Revalb v2.0\REVALB - NAJNOVIJI
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Admin/AddCategory.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Admin/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Admin/Albums.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Admin/Albums.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWxidW1zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Admin/Categories.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Admin/Categories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Admin/EditCategory.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Admin/EditCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Admin/EditRole.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Admin/EditRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFJvbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Admin/Panel.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Admin/Panel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFuZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Admin/Users.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Admin/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Album/Create.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Album/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Album/Delete.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Album/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Album/Details.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Album/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Album/Edit.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Album/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Album/Favorites.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Album/Favorites.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cRmF2b3JpdGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Album/Index.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Album/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Artist/Analytics.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Artist/Analytics.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0XEFuYWx5dGljcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Artist/ArtistPanel.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Artist/ArtistPanel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0XEFydGlzdFBhbmVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Home/Index.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Home/Privacy.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Home/Ranking.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Home/Ranking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYW5raW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Profile/ChangePassword.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Profile/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Profile/Edit.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Profile/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Profile/Me.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Profile/Me.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxNZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Profile/Public.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Profile/Public.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxQdWJsaWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Shared/Error.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Shared/_LoginPartial.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/_ViewImports.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/_ViewStart.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETF/II godina/revalb - final/REVALB - NAJNOVIJI/Views/Shared/_Layout.cshtml]
+[D:/ETF/II godina/4 semestar/OOAD/Projekat/Grupa6-Tim1/Revalb v2.0/REVALB - NAJNOVIJI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-b80ssuipnj

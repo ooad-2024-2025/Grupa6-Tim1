@@ -8364,11 +8364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\REVALB.csproj",
+      "projectUniqueName": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\REVALB.csproj",
       "projectName": "REVALB",
-      "projectPath": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\REVALB.csproj",
+      "projectPath": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\REVALB.csproj",
       "packagesPath": "C:\\Users\\hamza\\.nuget\\packages\\",
-      "outputPath": "D:\\ETF\\II godina\\revalb - final\\REVALB - NAJNOVIJI\\obj\\",
+      "outputPath": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
