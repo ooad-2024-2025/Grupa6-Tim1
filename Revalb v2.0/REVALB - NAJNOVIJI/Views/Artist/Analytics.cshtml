@@ -1,0 +1,26 @@
+﻿@model IEnumerable<REVALB.Models.Album>
+
+<h2 class="mb-4">📊 Your Album Statistics</h2>
+
+<div class="row">
+    @foreach (var album in Model)
+    {
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card shadow-sm h-100 border-0">
+                <div class="card-body">
+                    <h5 class="card-title">@album.Title</h5>
+
+                    <p class="mb-1">
+                        <span class="badge bg-info text-dark me-2">👁️ Views: @(album.AnalyticsData?.ClickCount ?? 0)</span>
+                        <span class="badge bg-success me-2">📝 Reviews: @(album.AnalyticsData?.ReviewCount ?? 0)</span>
+                        <span class="badge bg-warning text-dark">⭐ Rating: @(album.AnalyticsData?.AverageRating.ToString("0.00") ?? "0")</span>
+                    </p>
+
+                    <a asp-controller="Album" asp-action="Details" asp-route-id="@album.Id" class="btn btn-outline-primary mt-3 btn-sm">
+                        View Album
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

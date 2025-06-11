@@ -1,0 +1,26 @@
+﻿@model REVALB.Models.Album
+
+<div class="container mt-5">
+    <div class="card border-danger shadow-sm">
+        <div class="card-body">
+            <h2 class="card-title text-danger mb-3">
+                <i class="bi bi-exclamation-triangle-fill me-2"></i> Confirm Deletion
+            </h2>
+
+            <p class="fs-5">
+                Are you sure you want to permanently delete the album: <strong class="text-dark">@Model.Title</strong>?
+            </p>
+
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+
+                <div class="d-flex gap-2 mt-4">
+                    <button type="submit" class="btn btn-danger">
+                        <i class="bi bi-trash-fill me-1"></i> Delete
+                    </button>
+                    <a asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

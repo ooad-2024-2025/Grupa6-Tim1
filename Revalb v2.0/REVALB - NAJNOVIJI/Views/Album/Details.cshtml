@@ -1,0 +1,159 @@
+﻿@model REVALB.Models.Album
+
+<div class="container mt-5">
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="ratio ratio-1x1 rounded overflow-hidden shadow-sm" style="max-width: 100%; max-height: 300px;">
+                <img src="@Model.CoverImageURL" alt="@Model.Title" style="object-fit: cover; width: 100%; height: 100%;" />
+            </div>
+        </div>
+        <div class="col-md-8">
+            <h2 class="display-5 fw-bold">@Model.Title</h2>
+
+            <p class="text-muted">
+                By:
+                <a asp-controller="Profile" asp-action="User" asp-route-id="@Model.Artist.Id">
+                    @(Model.Artist?.Email.Split('@')[0])
+                </a>
+            </p>
+
+            <p class="mb-3"><strong>Description:</strong><br />@Model.Description</p>
+
+            @if (Model.Categories?.Any() == true)
+            {
+                <div class="mb-3">
+                    <strong>Genres:</strong>
+                    <div class="d-flex flex-wrap gap-2 mt-1">
+                        @foreach (var category in Model.Categories)
+                        {
+                            <span class="badge bg-secondary">@category.Name</span>
+                        }
+                    </div>
+                </div>
+            }
+
+            <p><strong>Release Date:</strong> @Model.ScheduledAlbum?.ScheduledFor.ToString("dd.MM.yyyy")</p>
+
+            @if (!string.IsNullOrWhiteSpace(Model.AudioPreviewURL))
+            {
+                <div class="mt-4">
+                    <h5>Listen:</h5>
+                    @if (Model.AudioPreviewURL.Contains("spotify.com"))
+                    {
+                        <iframe src="@Model.AudioPreviewURL.Replace("open.spotify.com/", "open.spotify.com/embed/")"
+                                width="100%" height="90" frameborder="0"
+                                allowtransparency="true" allow="encrypted-media"></iframe>
+                    }
+                    else
+                    {
+                        <audio controls class="w-100 mt-2">
+                            <source src="@Model.AudioPreviewURL" type="audio/mpeg">
+                            Your browser does not support audio preview.
+                        </audio>
+                    }
+                </div>
+            }
+
+            @if (User.Identity?.IsAuthenticated == true)
+            {
+                <form asp-controller="Album" asp-action="ToggleFavorite" method="post" class="mt-4">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" name="albumId" value="@Model.Id" />
+                    <button type="submit" class="btn @(ViewBag.IsFavorited ? "btn-danger" : "btn-outline-danger")">
+                        @(ViewBag.IsFavorited ? "💔 Remove from favorites" : "❤️ Add to favorites")
+                    </button>
+                </form>
+            }
+        </div>
+    </div>
+
+    <hr class="my-5" />
+    <h3 class="mb-4">Reviews</h3>
+
+    @if (User.Identity?.IsAuthenticated == true)
+    {
+        if ((bool)ViewBag.UserAlreadyReviewed)
+        {
+            <p class="text-warning">You already left a review for this album.</p>
+        }
+        else
+        {
+            <div class="card mb-5">
+                <div class="card-body">
+                    <h5 class="card-title">Leave a review</h5>
+                    <form asp-action="AddReview" method="post">
+                        <input type="hidden" name="AlbumId" value="@Model.Id" />
+                        <div class="mb-3">
+                            <label>Rating (1–10)</label>
+                            <input type="number" name="Rating" min="1" max="10" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label>Comment</label>
+                            <textarea name="Text" class="form-control" maxlength="1000" rows="3"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p><a href="/Identity/Account/Login">Log in</a> to leave a review.</p>
+    }
+
+    @if (Model.Reviews?.Any() == true)
+    {
+        foreach (var review in Model.Reviews)
+        {
+            <div class="card mb-4">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <strong>Rating: @review.Rating/5</strong>
+                        <small class="text-muted">
+                            By:
+                            <a asp-controller="Profile" asp-action="User" asp-route-id="@review.User.Id">
+                                @(review.User.UserName.Split('@')[0]) 
+                            </a>
+                        </small>
+                    </div>
+                    <p class="mt-2">@review.Text</p>
+
+                    @if (review.Comments?.Any() == true)
+                    {
+                        <div class="mt-3">
+                            <h6>Comments</h6>
+                            <ul class="list-unstyled ps-3">
+                                @foreach (var comment in review.Comments.OrderBy(c => c.CreatedAt))
+                                {
+                                    <li class="mb-2">
+                                        <strong>@(comment.User?.UserName.Split('@')[0])</strong>: @comment.Text  
+                                        <br />
+                                        <small class="text-muted">@comment.CreatedAt.ToString("dd.MM.yyyy HH:mm")</small>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
+                    }
+
+                    @if (User.Identity?.IsAuthenticated == true)
+                    {
+                        <form asp-action="AddComment" method="post" class="mt-2">
+                            <input type="hidden" name="ReviewId" value="@review.Id" />
+                            <input type="hidden" name="AlbumId" value="@Model.Id" />
+                            <div class="input-group">
+                                <input name="Text" class="form-control" placeholder="Add comment..." maxlength="500" required />
+                                <button class="btn btn-outline-primary" type="submit">Post</button>
+                            </div>
+                        </form>
+                    }
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p class="text-muted">No reviews yet.</p>
+    }
+</div>

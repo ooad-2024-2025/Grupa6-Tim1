@@ -1,0 +1,29 @@
+﻿@model IEnumerable<REVALB.Models.Album>
+
+<h2>All Albums</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Artist</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var album in Model)
+        {
+            <tr>
+                <td>@album.Title</td>
+                <td>@album.Artist?.Email</td>
+                <td>
+                    <form asp-action="DeleteAlbum" asp-controller="Admin" method="post">
+                        <input type="hidden" name="id" value="@album.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                    <a asp-controller="Album" asp-action="Details" asp-route-id="@album.Id" class="btn btn-info btn-sm">View</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

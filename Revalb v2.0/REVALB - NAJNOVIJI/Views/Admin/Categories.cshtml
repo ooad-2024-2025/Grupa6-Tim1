@@ -1,0 +1,35 @@
+﻿@model IEnumerable<REVALB.Models.Category>
+
+<h2>Categories</h2>
+
+<a asp-action="AddCategory" class="btn btn-success mb-3">+ Add New</a>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-warning">@TempData["Error"]</div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Albums</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cat in Model)
+        {
+            <tr>
+                <td>@cat.Name</td>
+                <td>@(cat.Albums?.Count ?? 0)</td>
+                <td>
+                    <a asp-action="EditCategory" asp-route-id="@cat.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <form asp-action="DeleteCategory" asp-route-id="@cat.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure?');">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

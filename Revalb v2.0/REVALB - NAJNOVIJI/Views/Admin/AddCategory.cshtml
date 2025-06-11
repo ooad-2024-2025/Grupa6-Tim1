@@ -1,0 +1,22 @@
+﻿@model REVALB.Models.Category
+
+<h2>Add New Category</h2>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-action="AddCategory" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3">Add</button>
+    <a asp-action="Categories" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

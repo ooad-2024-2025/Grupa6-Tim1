@@ -1,0 +1,97 @@
+﻿@model REVALB.Models.User
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="text-primary">My Profile</h2>
+        <div>
+            <a asp-action="Edit" class="btn btn-outline-primary me-2">Edit Profile</a>
+            <a asp-action="ChangePassword" class="btn btn-warning">Change Password</a>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mb-5">
+        <div class="card-body d-flex align-items-center">
+            <div class="me-4">
+                @if (!string.IsNullOrEmpty(Model.ProfilePictureURL))
+                {
+                    <img src="@Model.ProfilePictureURL" alt="Profile picture" class="rounded-circle border" style="width: 120px; height: 120px; object-fit: cover;" />
+                }
+                else
+                {
+                    <div class="bg-secondary rounded-circle d-flex align-items-center justify-content-center text-white" style="width: 120px; height: 120px;">
+                        <i class="bi bi-person-circle fs-1"></i>
+                    </div>
+                }
+            </div>
+            <div>
+                <h4 class="mb-1">@(Model.Email.Split('@')[0])</h4>
+                <p class="mb-1"><i class="bi bi-envelope"></i> @Model.Email</p>
+                <p class="text-muted">Member since @Model.CreatedAt.ToString("dd.MM.yyyy")</p>
+            </div>
+        </div>
+    </div>
+
+    <h4 class="text-secondary mb-3">My Reviews</h4>
+    @if (Model.Reviews != null && Model.Reviews.Any())
+    {
+        <div class="list-group mb-5">
+            @foreach (var review in Model.Reviews)
+            {
+                <div class="list-group-item list-group-item-action bg-light border rounded mb-2">
+                    <strong class="text-dark">@review.Album?.Title</strong>
+                    <span class="badge bg-primary ms-2">Rating: @review.Rating</span>
+                    <p class="mb-0 mt-2">@review.Text</p>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p class="text-muted mb-5">You haven't written any reviews yet.</p>
+    }
+
+    <h4 class="text-secondary mb-3">My Favorite Albums</h4>
+    @if (Model.FavoriteAlbums != null && Model.FavoriteAlbums.Any())
+    {
+        <div class="row mb-5">
+            @foreach (var album in Model.FavoriteAlbums)
+            {
+                <div class="col-md-4 col-sm-6 mb-4">
+                    <div class="card h-100 shadow-sm">
+                        <img src="@album.CoverImageURL" class="card-img-top" style="height: 200px; object-fit: cover;" />
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">@album.Title</h5>
+                            <a asp-controller="Album" asp-action="Details" asp-route-id="@album.Id" class="btn btn-outline-primary mt-auto">Details</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p class="text-muted mb-5">You have no favorite albums.</p>
+    }
+
+    @if ((bool)ViewBag.IsArtist)
+    {
+        <h4 class="text-secondary mb-3">My Albums</h4>
+        var albums = (List<REVALB.Models.Album>)ViewBag.UserAlbums;
+        if (albums.Any())
+        {
+            <ul class="list-group mb-5">
+                @foreach (var album in albums)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span><strong>@album.Title</strong></span>
+                        <span class="badge bg-info text-dark">@album.ScheduledAlbum?.ScheduledFor.ToString("dd.MM.yyyy")</span>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p class="text-muted">You haven't published any albums yet.</p>
+        }
+    }
+</div>

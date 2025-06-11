@@ -1,0 +1,38 @@
+﻿@model IEnumerable<REVALB.Models.Album>
+
+<div class="container mt-5">
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="mb-0">🎵 My Albums</h2>
+        <a class="btn btn-success" asp-action="Create">+ New Album</a>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            You haven't published any albums yet.
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var album in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow-sm">
+                        <img src="@album.CoverImageURL" class="card-img-top" style="height: 200px; object-fit: cover;" />
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">@album.Title</h5>
+                            <p class="card-text text-muted">Release: @album.ReleaseDate?.ToString("dd.MM.yyyy")</p>
+                            <div class="mt-auto">
+                                <a asp-action="Details" asp-route-id="@album.Id" class="btn btn-sm btn-outline-info me-2">View</a>
+                                <a asp-action="Edit" asp-route-id="@album.Id" class="btn btn-sm btn-outline-warning me-2">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@album.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

@@ -1,0 +1,26 @@
+﻿@model REVALB.Models.ViewModels.EditRoleViewModel
+
+<h2>Edit Role for @Model.Email</h2>
+
+<form asp-action="EditRole" method="post">
+    <input type="hidden" name="UserId" value="@Model.UserId" />
+
+    <div class="form-group">
+        <label>Current Role:</label>
+        <input class="form-control" value="@Model.CurrentRole" readonly />
+    </div>
+
+    <div class="form-group mt-2">
+        <label>New Role:</label>
+        <select name="SelectedRole" class="form-select">
+            @foreach (var role in Model.AvailableRoles)
+            {
+                <option value="@role" selected="@(Model.CurrentRole == role)">
+                    @role
+                </option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Save</button>
+</form>
