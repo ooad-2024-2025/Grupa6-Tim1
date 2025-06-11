@@ -165,6 +165,7 @@ namespace REVALB.Controllers
             existing.Description = album.Description;
             existing.AudioPreviewURL = album.AudioPreviewURL;
 
+            /*
             if (existing.ScheduledAlbum != null)
             {
                 existing.ScheduledAlbum.ScheduledFor = ReleaseDate ?? DateTime.Now;
@@ -177,7 +178,7 @@ namespace REVALB.Controllers
                     ScheduledFor = album.ReleaseDate ?? DateTime.Now
                 };
             }
-
+            */
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));

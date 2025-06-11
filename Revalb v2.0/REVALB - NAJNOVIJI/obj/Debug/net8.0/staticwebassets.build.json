@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IOYPPOyUsMGP2snofcTSFirXB4QW71GwuGD0sBGY/uw=",
+  "Hash": "1dSJ04tr7B0dLc7/bwwYMoQ0x6fItozU7Q4xX6rPO0M=",
   "Source": "REVALB",
   "BasePath": "_content/REVALB",
   "Mode": "Default",
@@ -2747,6 +2747,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\0293a6d5-0212-41f0-9909-6991a516aa21.jpg",
+      "SourceId": "REVALB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "BasePath": "_content/REVALB",
+      "RelativePath": "uploads/covers/0293a6d5-0212-41f0-9909-6991a516aa21#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9i3oyej599",
+      "Integrity": "wfHf8s5/i1pmU0XRIIQGoYZEl6nQm1GOhaotxAQ+094=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\covers\\0293a6d5-0212-41f0-9909-6991a516aa21.jpg"
+    },
+    {
       "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
@@ -2808,6 +2829,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\49bffb24-9e1d-4c61-a684-a9e91306e890.jpg"
+    },
+    {
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\4d26c43c-0d3f-4f4f-a5a8-0133228c22e7.jpeg",
+      "SourceId": "REVALB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "BasePath": "_content/REVALB",
+      "RelativePath": "uploads/covers/4d26c43c-0d3f-4f4f-a5a8-0133228c22e7#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "58y63u799h",
+      "Integrity": "xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\covers\\4d26c43c-0d3f-4f4f-a5a8-0133228c22e7.jpeg"
     },
     {
       "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\5333adb1-21cb-4e2a-aee3-2244ff072e9d.png",
@@ -2873,6 +2915,48 @@
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\6d4a1f76-cca4-4630-bd73-f5f168a9d252.png"
     },
     {
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\7417c623-dbcb-440f-b81a-1977638bc1f2.jpeg",
+      "SourceId": "REVALB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "BasePath": "_content/REVALB",
+      "RelativePath": "uploads/covers/7417c623-dbcb-440f-b81a-1977638bc1f2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "58y63u799h",
+      "Integrity": "xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\covers\\7417c623-dbcb-440f-b81a-1977638bc1f2.jpeg"
+    },
+    {
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\7bc3dec7-0191-450b-9d41-df603666e1e5.png",
+      "SourceId": "REVALB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "BasePath": "_content/REVALB",
+      "RelativePath": "uploads/covers/7bc3dec7-0191-450b-9d41-df603666e1e5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "08cgryk72g",
+      "Integrity": "4GT8OfS9eOYVLDIANJ2RN6i0nMDNk7ZM9d1ULpqO89k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\covers\\7bc3dec7-0191-450b-9d41-df603666e1e5.png"
+    },
+    {
       "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png",
       "SourceId": "REVALB",
       "SourceType": "Discovered",
@@ -2892,6 +2976,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png"
+    },
+    {
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\a2fc34b0-c7f0-4462-be0c-83767548a9e9.jpeg",
+      "SourceId": "REVALB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "BasePath": "_content/REVALB",
+      "RelativePath": "uploads/covers/a2fc34b0-c7f0-4462-be0c-83767548a9e9#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "58y63u799h",
+      "Integrity": "xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\covers\\a2fc34b0-c7f0-4462-be0c-83767548a9e9.jpeg"
     },
     {
       "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\dccf36a2-ab7a-41d4-81c3-0f11ccf4d30f.jpg",
@@ -11045,6 +11150,88 @@
       ]
     },
     {
+      "Route": "uploads/covers/0293a6d5-0212-41f0-9909-6991a516aa21.9i3oyej599.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\0293a6d5-0212-41f0-9909-6991a516aa21.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfHf8s5/i1pmU0XRIIQGoYZEl6nQm1GOhaotxAQ+094=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:04:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9i3oyej599"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/covers/0293a6d5-0212-41f0-9909-6991a516aa21.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfHf8s5/i1pmU0XRIIQGoYZEl6nQm1GOhaotxAQ+094="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/0293a6d5-0212-41f0-9909-6991a516aa21.jpg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\0293a6d5-0212-41f0-9909-6991a516aa21.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfHf8s5/i1pmU0XRIIQGoYZEl6nQm1GOhaotxAQ+094=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:04:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfHf8s5/i1pmU0XRIIQGoYZEl6nQm1GOhaotxAQ+094="
+        }
+      ]
+    },
+    {
       "Route": "uploads/covers/30b06083-5957-450a-b1c4-387622a3eff5.ifrga5e2u7.jpg",
       "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg",
       "Selectors": [],
@@ -11287,6 +11474,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-5ZlTjDeonXjvC9d/10/5qRp7S/a33GOJbA+5PZw3O4I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/4d26c43c-0d3f-4f4f-a5a8-0133228c22e7.58y63u799h.jpeg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\4d26c43c-0d3f-4f4f-a5a8-0133228c22e7.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58y63u799h"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/covers/4d26c43c-0d3f-4f4f-a5a8-0133228c22e7.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/4d26c43c-0d3f-4f4f-a5a8-0133228c22e7.jpeg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\4d26c43c-0d3f-4f4f-a5a8-0133228c22e7.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po="
         }
       ]
     },
@@ -11537,6 +11806,170 @@
       ]
     },
     {
+      "Route": "uploads/covers/7417c623-dbcb-440f-b81a-1977638bc1f2.58y63u799h.jpeg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\7417c623-dbcb-440f-b81a-1977638bc1f2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:27:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58y63u799h"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/covers/7417c623-dbcb-440f-b81a-1977638bc1f2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/7417c623-dbcb-440f-b81a-1977638bc1f2.jpeg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\7417c623-dbcb-440f-b81a-1977638bc1f2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:27:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/7bc3dec7-0191-450b-9d41-df603666e1e5.08cgryk72g.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\7bc3dec7-0191-450b-9d41-df603666e1e5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1088086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4GT8OfS9eOYVLDIANJ2RN6i0nMDNk7ZM9d1ULpqO89k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:04:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "08cgryk72g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/covers/7bc3dec7-0191-450b-9d41-df603666e1e5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4GT8OfS9eOYVLDIANJ2RN6i0nMDNk7ZM9d1ULpqO89k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/7bc3dec7-0191-450b-9d41-df603666e1e5.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\7bc3dec7-0191-450b-9d41-df603666e1e5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1088086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4GT8OfS9eOYVLDIANJ2RN6i0nMDNk7ZM9d1ULpqO89k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:04:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4GT8OfS9eOYVLDIANJ2RN6i0nMDNk7ZM9d1ULpqO89k="
+        }
+      ]
+    },
+    {
       "Route": "uploads/covers/899be3f9-004d-4f31-9689-c915860a6b82.669ihyyhwu.png",
       "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\899be3f9-004d-4f31-9689-c915860a6b82.png",
       "Selectors": [],
@@ -11615,6 +12048,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-7tdU6RWc+v0d3RsO+Kf0Tb2hfumCSR0m9mJGZtt7dAM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/a2fc34b0-c7f0-4462-be0c-83767548a9e9.58y63u799h.jpeg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\a2fc34b0-c7f0-4462-be0c-83767548a9e9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:26:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58y63u799h"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/covers/a2fc34b0-c7f0-4462-be0c-83767548a9e9.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/a2fc34b0-c7f0-4462-be0c-83767548a9e9.jpeg",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\a2fc34b0-c7f0-4462-be0c-83767548a9e9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 15:26:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xb33MB7NYdhXjFOw1W430is0TsOFp0z1Ytl2FMmz9po="
         }
       ]
     },
