@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1dSJ04tr7B0dLc7/bwwYMoQ0x6fItozU7Q4xX6rPO0M=",
+  "Hash": "VUvEJN7mUse6cE99CTbiYU3oK1z/tvFnm19aKexBkb0=",
   "Source": "REVALB",
   "BasePath": "_content/REVALB",
   "Mode": "Default",
@@ -2787,6 +2787,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\covers\\30b06083-5957-450a-b1c4-387622a3eff5.jpg"
+    },
+    {
+      "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30edc078-4bd5-4da1-89fc-390d4e03c3ef.png",
+      "SourceId": "REVALB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\",
+      "BasePath": "_content/REVALB",
+      "RelativePath": "uploads/covers/30edc078-4bd5-4da1-89fc-390d4e03c3ef#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dv9225o5tj",
+      "Integrity": "edRj2FpI0NJCclYaJAjpSAFmANIIg9thnhD3cyX1xJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\covers\\30edc078-4bd5-4da1-89fc-390d4e03c3ef.png"
     },
     {
       "Identity": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\48b966c5-6e3e-4390-af00-f4abeb2494a4.png",
@@ -11310,6 +11331,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-IjNlZuA/o17/bCBvluDqLlOkjpPlhRxN8tZwjCEn+lY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/30edc078-4bd5-4da1-89fc-390d4e03c3ef.dv9225o5tj.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30edc078-4bd5-4da1-89fc-390d4e03c3ef.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edRj2FpI0NJCclYaJAjpSAFmANIIg9thnhD3cyX1xJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 06:59:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dv9225o5tj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/covers/30edc078-4bd5-4da1-89fc-390d4e03c3ef.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edRj2FpI0NJCclYaJAjpSAFmANIIg9thnhD3cyX1xJk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/covers/30edc078-4bd5-4da1-89fc-390d4e03c3ef.png",
+      "AssetFile": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\wwwroot\\uploads\\covers\\30edc078-4bd5-4da1-89fc-390d4e03c3ef.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edRj2FpI0NJCclYaJAjpSAFmANIIg9thnhD3cyX1xJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 06:59:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edRj2FpI0NJCclYaJAjpSAFmANIIg9thnhD3cyX1xJk="
         }
       ]
     },

@@ -1,5 +1,39 @@
 ﻿@model REVALB.Models.Album
 
+
+<style>
+    .star-rating {
+        direction: rtl;
+        font-size: 2rem;
+    }
+
+        .star-rating input[type="radio"] {
+            display: none;
+        }
+
+        .star-rating label {
+            color: #ccc;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+
+            .star-rating input[type="radio"]:checked ~ label,
+            .star-rating label:hover,
+            .star-rating label:hover ~ label {
+                color: #ffc107;
+            }
+</style>
+<style>
+    .profile-pic {
+        width: 30px;
+        height: 30px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 1px solid #ccc;
+    }
+</style>
+
+
 <div class="container mt-5">
 
     <div class="row">
@@ -42,8 +76,8 @@
                     @if (Model.AudioPreviewURL.Contains("spotify.com"))
                     {
                         <iframe src="@Model.AudioPreviewURL.Replace("open.spotify.com/", "open.spotify.com/embed/")"
-                                width="100%" height="90" frameborder="0"
-                                allowtransparency="true" allow="encrypted-media"></iframe>
+                        width="100%" height="90" frameborder="0"
+                        allowtransparency="true" allow="encrypted-media"></iframe>
                     }
                     else
                     {
@@ -77,6 +111,10 @@
         {
             <p class="text-warning">You already left a review for this album.</p>
         }
+        else if ((bool)ViewBag.IsArtist)
+        {
+            <p class="text-warning">You cannot review your own album.</p>
+        }
         else
         {
             <div class="card mb-5">
@@ -84,10 +122,16 @@
                     <h5 class="card-title">Leave a review</h5>
                     <form asp-action="AddReview" method="post">
                         <input type="hidden" name="AlbumId" value="@Model.Id" />
-                        <div class="mb-3">
-                            <label>Rating (1–10)</label>
-                            <input type="number" name="Rating" min="1" max="10" class="form-control" required />
-                        </div>
+                            <div class="mb-3">
+                                <label class="form-label">Rating</label>
+                                <div class="star-rating d-flex flex-row-reverse justify-content-end">
+                                    @for (int i = 5; i >= 1; i--)
+                                    {
+                                        <input type="radio" id="star-@i" name="Rating" value="@i" required />
+                                        <label for="star-@i" title="@i stars">&#9733;</label>
+                                    }
+                                </div>
+                            </div>
                         <div class="mb-3">
                             <label>Comment</label>
                             <textarea name="Text" class="form-control" maxlength="1000" rows="3"></textarea>
@@ -111,12 +155,21 @@
                 <div class="card-body">
                     <div class="d-flex justify-content-between">
                         <strong>Rating: @review.Rating/5</strong>
+                        <!--
                         <small class="text-muted">
                             By:
                             <a asp-controller="Profile" asp-action="User" asp-route-id="@review.User.Id">
                                 @(review.User.UserName.Split('@')[0]) 
                             </a>
                         </small>
+                        -->
+                        <div class="d-flex align-items-center gap-2">
+                            <img src="@review.User.ProfilePictureURL" alt="Profile Picture" class="profile-pic" />
+                            <a asp-controller="Profile" asp-action="User" asp-route-id="@review.User.Id" class="text-decoration-none text-muted">
+                                @(review.User.UserName.Split('@')[0])
+                            </a>
+                        </div>
+
                     </div>
                     <p class="mt-2">@review.Text</p>
 
@@ -128,7 +181,14 @@
                                 @foreach (var comment in review.Comments.OrderBy(c => c.CreatedAt))
                                 {
                                     <li class="mb-2">
-                                        <strong>@(comment.User?.UserName.Split('@')[0])</strong>: @comment.Text  
+                                        <div class="d-flex align-items-center gap-2 mb-1">
+                                            <img src="@comment.User?.ProfilePictureURL" alt="Profile Picture" class="profile-pic" />
+                                            <strong>@(comment.User?.UserName.Split('@')[0])</strong>
+                                        </div>
+                                        <div>
+                                            @comment.Text
+                                        </div>
+
                                         <br />
                                         <small class="text-muted">@comment.CreatedAt.ToString("dd.MM.yyyy HH:mm")</small>
                                     </li>

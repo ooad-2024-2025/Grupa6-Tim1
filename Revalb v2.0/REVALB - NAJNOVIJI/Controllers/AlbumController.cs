@@ -256,20 +256,24 @@ namespace REVALB.Controllers
                 bool isFavorited = user.FavoriteAlbums.Any(f => f.Id == album.Id);
                 ViewBag.IsFavorited = isFavorited;
 
+
+
+                var userIdString = _userManager.GetUserId(User);
+
+                int userId = 0;
+                if (!string.IsNullOrEmpty(userIdString))
+                {
+                    int.TryParse(userIdString, out userId);
+                }
+
+                bool isArtist = album.ArtistId == userId;
+
+                ViewBag.IsArtist = isArtist;
+
+
             }
 
             ViewBag.UserAlreadyReviewed = userAlreadyReviewed;
-
-
-
-            /*// Sakrij album ako je zakazan i korisnik nije artist
-            if (album.ScheduledAlbum?.ScheduledFor.Date > DateTime.Today)
-            {
-                var user = await _userManager.GetUserAsync(User);
-                if (!User.IsInRole("Artist") || album.ArtistId != user.Id)
-                    return Forbid();
-            }*/
-
 
             return View(album);
         }

@@ -22,6 +22,7 @@ namespace REVALB.Models
 
         [Required]
         [Display(Name = "Audio Preview URL")]
+        [RegularExpression(@"^https:\/\/open\.spotify\.com\/.*$", ErrorMessage = "Only spotify links allowed: https://open.spotify.com/")]
         public string AudioPreviewURL { get; set; }
 
         public int ArtistId { get; set; }

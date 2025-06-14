@@ -8,6 +8,7 @@ namespace REVALB.Models
         public int? Id { get; set; }
 
         [Required]
+        [RegularExpression(@"[ |a-z|A-Z|0-9|!\$]*", ErrorMessage = "Only aplhanumerical and ! $ characters are allowed!")]
         public string Title { get; set; }
 
         [Required]
@@ -18,6 +19,7 @@ namespace REVALB.Models
 
         [Required]
         [Display(Name = "Audio Preview URL")]
+        [RegularExpression(@"^https:\/\/open\.spotify\.com\/.*$", ErrorMessage = "Only spotify links allowed: https://open.spotify.com/")]
         public string AudioPreviewURL { get; set; }
 
         [Required]

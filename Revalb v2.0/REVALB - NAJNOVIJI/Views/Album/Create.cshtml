@@ -10,6 +10,7 @@
         <div class="mb-3">
             <label asp-for="Title" class="form-label">Title</label>
             <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
         </div>
 
         <div class="mb-3">
@@ -41,9 +42,11 @@
 
 
         <div class="mb-3">
-            <label asp-for="AudioPreviewURL" class="form-label">Audio Preview URL (MP3, Spotify, YouTube...)</label>
-            <input asp-for="AudioPreviewURL" class="form-control" placeholder="https://..." />
+            <label asp-for="AudioPreviewURL" class="form-label">Audio Preview URL (Spotify)</label>
+            <input asp-for="AudioPreviewURL" class="form-control" placeholder="https://open.spotify.com/..." />
+            <span asp-validation-for="AudioPreviewURL" class="text-danger"></span>
         </div>
+
 
         <div class="d-flex justify-content-between">
             <button type="submit" class="btn btn-success">

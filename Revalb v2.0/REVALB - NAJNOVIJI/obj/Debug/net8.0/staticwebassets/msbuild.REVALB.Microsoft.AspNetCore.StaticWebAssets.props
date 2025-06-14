@@ -1278,6 +1278,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\covers\30b06083-5957-450a-b1c4-387622a3eff5.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\covers\30edc078-4bd5-4da1-89fc-390d4e03c3ef.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>REVALB</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/REVALB</BasePath>
+      <RelativePath>uploads/covers/30edc078-4bd5-4da1-89fc-390d4e03c3ef.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dv9225o5tj</Fingerprint>
+      <Integrity>edRj2FpI0NJCclYaJAjpSAFmANIIg9thnhD3cyX1xJk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\covers\30edc078-4bd5-4da1-89fc-390d4e03c3ef.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\covers\48b966c5-6e3e-4390-af00-f4abeb2494a4.png'))">
       <SourceType>Package</SourceType>
       <SourceId>REVALB</SourceId>
