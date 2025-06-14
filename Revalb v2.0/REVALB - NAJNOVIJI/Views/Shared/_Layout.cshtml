@@ -2,6 +2,16 @@
 @inject SignInManager<User> SignInManager
 @inject UserManager<User> UserManager
 
+<style>
+    .profile-pic {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    }
+</style>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +39,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">🏠 Home</a>
                         </li>
 
                         @if (SignInManager.IsSignedIn(User))
@@ -60,12 +70,16 @@
                         {
                             var email = User.Identity.Name;
                             var displayName = email.Contains('@') ? email.Split('@')[0] : email;
+                            var currentUser = await UserManager.GetUserAsync(User);
+                            var profilePictureURL = currentUser?.ProfilePictureURL;
 
-                            <li class="nav-item">
-                                <a class="nav-link" asp-controller="Profile" asp-action="Me">
-                                    👤 @displayName
+                            <div class="d-flex align-items-center gap-2">
+                                <img src="@profilePictureURL" class="profile-pic" />
+                                <a class="nav-link" asp-controller="Profile" asp-action="Me" class="text-decoration-none">
+                                    @displayName
                                 </a>
-                            </li>
+                            </div>
+
                             <li class="nav-item">
                                 <form method="post" asp-area="Identity" asp-page="/Account/Logout" class="d-inline">
                                     <button type="submit" class="nav-link btn btn-link text-decoration-none">🚪 Logout</button>
