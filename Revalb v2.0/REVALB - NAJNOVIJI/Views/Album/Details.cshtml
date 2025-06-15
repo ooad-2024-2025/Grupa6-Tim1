@@ -155,14 +155,6 @@
                 <div class="card-body">
                     <div class="d-flex justify-content-between">
                         <strong>Rating: @review.Rating/5</strong>
-                        <!--
-                        <small class="text-muted">
-                            By:
-                            <a asp-controller="Profile" asp-action="User" asp-route-id="@review.User.Id">
-                                @(review.User.UserName.Split('@')[0]) 
-                            </a>
-                        </small>
-                        -->
                         <div class="d-flex align-items-center gap-2">
                             <img src="@review.User.ProfilePictureURL" alt="Profile Picture" class="profile-pic" />
                             <a asp-controller="Profile" asp-action="User" asp-route-id="@review.User.Id" class="text-decoration-none text-muted">

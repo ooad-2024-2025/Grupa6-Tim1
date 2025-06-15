@@ -23,14 +23,14 @@ namespace REVALB.Controllers
             _roleManager = roleManager;
         }
 
-        // 1. Prikaz korisnika
+        // prikaz korisnika
         public async Task<IActionResult> Users()
         {
             var users = await _context.Users.ToListAsync();
             return View(users);
         }
 
-        // 2. Prikaz svih albuma
+        // prikaz svih albuma
         public async Task<IActionResult> Albums()
         {
             var albums = await _context.Albums
@@ -39,7 +39,7 @@ namespace REVALB.Controllers
             return View(albums);
         }
 
-        // 3. Brisanje albuma (sa recenzijama i komentarima)
+        // brisanje albuma (sa recenzijama i komentarima)
         [HttpPost]
         public async Task<IActionResult> DeleteAlbum(int id)
         {
@@ -51,7 +51,7 @@ namespace REVALB.Controllers
             if (album == null)
                 return NotFound();
 
-            // Prvo briši komentare, zatim recenzije
+            // prvo brisi komentare, zatim recenzije
             if (album.Reviews != null)
             {
                 foreach (var review in album.Reviews)
@@ -62,7 +62,7 @@ namespace REVALB.Controllers
                 _context.Reviews.RemoveRange(album.Reviews);
             }
 
-            // Na kraju album
+            // na kraju album
             _context.Albums.Remove(album);
             await _context.SaveChangesAsync();
 
@@ -75,7 +75,7 @@ namespace REVALB.Controllers
             if (user == null)
                 return NotFound();
 
-            // Ne dozvoli da admin sam sebe obriše
+            // ne dozvoli da admin sam sebe obrise
             var currentUser = await _userManager.GetUserAsync(User);
             if (user.Id == currentUser.Id)
                 return Forbid();
@@ -114,10 +114,10 @@ namespace REVALB.Controllers
 
             var currentRoles = await _userManager.GetRolesAsync(user);
 
-            // Ukloni stare role
+            // ukloni stare role
             await _userManager.RemoveFromRolesAsync(user, currentRoles);
 
-            // Dodaj novu rolu
+            // dodaj novu rolu
             if (!string.IsNullOrEmpty(model.SelectedRole))
             {
                 await _userManager.AddToRoleAsync(user, model.SelectedRole);
@@ -198,5 +198,4 @@ namespace REVALB.Controllers
             return View();
         }
     }
-
 }

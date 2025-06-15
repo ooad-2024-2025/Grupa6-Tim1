@@ -10,7 +10,7 @@ namespace REVALB.Models
 
         public ICollection<Comment> Comments { get; set; }  
 
-        public ICollection<Album> FavoriteAlbums { get; set; } //many-to-many
+        public ICollection<Album> FavoriteAlbums { get; set; }
         
         public DateTime CreatedAt { get; set; }
     }

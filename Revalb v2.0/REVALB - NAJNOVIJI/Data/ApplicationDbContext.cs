@@ -30,34 +30,34 @@ namespace REVALB.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // Isključi cascade delete za Review → User
+            // iskljuci cascade delete za Review → User
             modelBuilder.Entity<Review>()
                 .HasOne(r => r.User)
                 .WithMany(u => u.Reviews)
                 .HasForeignKey(r => r.UserId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            // Isključi cascade delete za Comment → User
+            // iskljuci cascade delete za Comment → User
             modelBuilder.Entity<Comment>()
                 .HasOne(c => c.User)
                 .WithMany(u => u.Comments)
                 .HasForeignKey(c => c.UserId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            // Isključi cascade delete za Album → User (Artist)
+            // iskljuci cascade delete za Album → User (Artist)
             modelBuilder.Entity<Album>()
                 .HasOne(a => a.Artist)
                 .WithMany()
                 .HasForeignKey(a => a.ArtistId)
                 .OnDelete(DeleteBehavior.Restrict);
-            // Kaskadno brisanje Review → Comment
+            // kaskadno brisanje Review → Comment
             modelBuilder.Entity<Review>()
                 .HasMany(r => r.Comments)
                 .WithOne(c => c.Review)
                 .HasForeignKey(c => c.ReviewId)
                 .OnDelete(DeleteBehavior.Cascade);
 
-            // Kaskadno brisanje Album → Review
+            // kaskadno brisanje Album → Review
             modelBuilder.Entity<Album>()
                 .HasMany(a => a.Reviews)
                 .WithOne(r => r.Album)
@@ -71,7 +71,7 @@ namespace REVALB.Data
                 .HasForeignKey<ScheduledAlbum>(sa => sa.AlbumId)
                 .OnDelete(DeleteBehavior.Cascade);
 
-            // Kaskadno brisanje Album → AnalyticsData
+            // kaskadno brisanje Album → AnalyticsData
             modelBuilder.Entity<Album>()
                 .HasOne(a => a.AnalyticsData)
                 .WithOne(ad => ad.Album)
@@ -85,7 +85,7 @@ namespace REVALB.Data
 
             modelBuilder.Entity<User>()
                 .HasMany(u => u.FavoriteAlbums)
-                .WithMany() // ako želiš možeš dodati .WithMany("FavoritedByUsers")
+                .WithMany()
                 .UsingEntity(j => j.ToTable("UserFavoriteAlbums"));
         }
 

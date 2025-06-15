@@ -73,7 +73,7 @@ using (var scope = app.Services.CreateScope())
         }
     }
 
-    // Automatsko kreiranje admina ako ne postoji
+    // admin
     string adminEmail = "admin@example.com";
     string adminPassword = "Admin123!";
 
@@ -108,6 +108,5 @@ using (var scope = app.Services.CreateScope())
     }
 
 }
-
 
 app.Run();

@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace REVALB.Controllers
 {
-    [Authorize(Roles = "Artist")]
+    [Authorize(Roles = "Artist, Admin")]
     public class ArtistController : Controller
     {
         private readonly ApplicationDbContext _context;

@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\helperclass\\uploadhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:helperclass\\uploadhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\album\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\album\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\profile\\public.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\profile\\public.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\profile\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\profile\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\profile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\profile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\profile\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\profile\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\home\\ranking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\home\\ranking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\artist\\artistpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\artist\\artistpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\artist\\analytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\artist\\analytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\album\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\album\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\album\\favorites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,76 +71,16 @@
       "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\album\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\profile\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\profile\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\album\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\album\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\home\\ranking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\home\\ranking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\viewmodels\\albumformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\viewmodels\\albumformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\album\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\album\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\album\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\album\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\profile\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\profile\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -107,20 +95,116 @@
       "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\admin\\editrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\album\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\album\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\admin\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\admin\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\profile\\public.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\profile\\public.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\admin\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\admin\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\admin\\albums.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\admin\\albums.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\scheduledalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\scheduledalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\analyticsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\analyticsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\viewmodels\\reviewformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\viewmodels\\reviewformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\viewmodels\\commentformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\viewmodels\\commentformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\viewmodels\\albumformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\viewmodels\\albumformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\models\\viewmodels\\albumfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:models\\viewmodels\\albumfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|d:\\etf\\ii godina\\4 semestar\\ooad\\projekat\\grupa6-tim1\\revalb v2.0\\revalb - najnoviji\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA9C7C29-E0EB-4762-A3F7-D056B2842A80}|REVALB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,24 +214,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Favorites.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Favorites.cshtml",
-              "RelativeDocumentMoniker": "Views\\Album\\Favorites.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Favorites.cshtml",
-              "RelativeToolTip": "Views\\Album\\Favorites.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T13:32:18.445Z",
+              "DocumentIndex": 2,
+              "Title": "UploadHandler.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\HelperClass\\UploadHandler.cs",
+              "RelativeDocumentMoniker": "HelperClass\\UploadHandler.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\HelperClass\\UploadHandler.cs",
+              "RelativeToolTip": "HelperClass\\UploadHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T09:04:23.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Edit.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:58:57.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Me.cshtml",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\Me.cshtml",
               "RelativeDocumentMoniker": "Views\\Profile\\Me.cshtml",
@@ -160,57 +257,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AlbumController.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\AlbumController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AlbumController.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\AlbumController.cs",
-              "RelativeToolTip": "Controllers\\AlbumController.cs",
-              "ViewState": "AgIAAPMAAAAAAAAAAAAAAN0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:56:24.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Album.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Album.cs",
-              "RelativeDocumentMoniker": "Models\\Album.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Album.cs",
-              "RelativeToolTip": "Models\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:56:41.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Album\\Details.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Details.cshtml",
-              "RelativeToolTip": "Views\\Album\\Details.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Public.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\Public.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Public.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\Public.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Public.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T13:16:30.051Z",
+              "WhenOpened": "2025-06-11T13:15:40.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-08T16:52:58.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEwCAAAAAAAAAAAAAO0BAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:37:30.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:28:28.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\ChangePassword.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\Profile\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T14:24:37.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ranking.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Ranking.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Ranking.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Ranking.cshtml",
+              "RelativeToolTip": "Views\\Home\\Ranking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T08:54:01.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:36:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:58:38.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ArtistPanel.cshtml",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Artist\\ArtistPanel.cshtml",
               "RelativeDocumentMoniker": "Views\\Artist\\ArtistPanel.cshtml",
@@ -223,7 +374,436 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "Analytics.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Artist\\Analytics.cshtml",
+              "RelativeDocumentMoniker": "Views\\Artist\\Analytics.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Artist\\Analytics.cshtml",
+              "RelativeToolTip": "Views\\Artist\\Analytics.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:58:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Favorites.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Favorites.cshtml",
+              "RelativeDocumentMoniker": "Views\\Album\\Favorites.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Favorites.cshtml",
+              "RelativeToolTip": "Views\\Album\\Favorites.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T13:32:18.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Album\\Edit.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Album\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T14:58:58.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Album\\Details.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Details.cshtml",
+              "RelativeToolTip": "Views\\Album\\Details.cshtml",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAJwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T13:16:30.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Album\\Delete.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Album\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:57:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Users.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T16:52:41.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T16:55:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Panel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Panel.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Panel.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Panel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T10:42:33.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditRole.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\EditRole.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditRole.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\EditRole.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T13:16:59.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Album\\Index.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Index.cshtml",
+              "RelativeToolTip": "Views\\Album\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T16:53:32.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditCategory.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\EditCategory.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:57:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Categories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Categories.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Categories.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Categories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:57:11.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddCategory.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\AddCategory.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:57:03.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:52.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Album\\Create.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Create.cshtml",
+              "RelativeToolTip": "Views\\Album\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T15:01:04.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScheduledAlbum.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ScheduledAlbum.cs",
+              "RelativeDocumentMoniker": "Models\\ScheduledAlbum.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ScheduledAlbum.cs",
+              "RelativeToolTip": "Models\\ScheduledAlbum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:50.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:48.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:46.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:38.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Models\\Artist.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Artist.cs",
+              "RelativeToolTip": "Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:36.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Albums.cshtml",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Albums.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Albums.cshtml",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Albums.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Albums.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T11:50:44.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AnalyticsData.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\AnalyticsData.cs",
+              "RelativeDocumentMoniker": "Models\\AnalyticsData.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\AnalyticsData.cs",
+              "RelativeToolTip": "Models\\AnalyticsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:34.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReviewFormViewModel.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\ReviewFormViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\ReviewFormViewModel.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\ReviewFormViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\ReviewFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:26.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CommentFormViewModel.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\CommentFormViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\CommentFormViewModel.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\CommentFormViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\CommentFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:19.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:24:53.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:13.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AlbumFilterViewModel.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\AlbumFilterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AlbumFilterViewModel.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\AlbumFilterViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AlbumFilterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:56:04.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Models\\Album.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Album.cs",
+              "RelativeToolTip": "Models\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:56:41.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:49:39.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlbumController.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "Controllers\\AlbumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:56:24.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:54:32.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtistController.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "Controllers\\ArtistController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:46:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "AlbumFormViewModel.cs",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\ViewModels\\AlbumFormViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\AlbumFormViewModel.cs",
@@ -231,72 +811,25 @@
               "RelativeToolTip": "Models\\ViewModels\\AlbumFormViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T07:11:59.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ranking.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Ranking.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Ranking.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Ranking.cshtml",
-              "RelativeToolTip": "Views\\Home\\Ranking.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T08:54:01.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Album\\Edit.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Album\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T14:58:58.425Z",
+              "WhenOpened": "2025-06-14T07:11:59.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Album\\Create.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Create.cshtml",
-              "RelativeToolTip": "Views\\Album\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T15:01:04.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEMAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 42,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T15:28:28.438Z"
+              "WhenOpened": "2025-06-11T14:25:03.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T10:54:32.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 47,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -308,31 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T15:36:13.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAEACAAAAAAAAAAAAAO0BAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T15:37:30.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 48,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -344,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 49,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -356,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 50,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -365,138 +874,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-11T15:28:31.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Models\\Comment.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Models\\Comment.cs",
-              "RelativeToolTip": "Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:24:53.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\ChangePassword.cshtml",
-              "RelativeDocumentMoniker": "Views\\Profile\\ChangePassword.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\ChangePassword.cshtml",
-              "RelativeToolTip": "Views\\Profile\\ChangePassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T14:24:37.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:25:03.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EditRole.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\EditRole.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\EditRole.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\EditRole.cshtml",
-              "RelativeToolTip": "Views\\Admin\\EditRole.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T13:16:59.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ArtistController.cs",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\ArtistController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ArtistController.cs",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Controllers\\ArtistController.cs",
-              "RelativeToolTip": "Controllers\\ArtistController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T10:46:13.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Public.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\Public.cshtml",
-              "RelativeDocumentMoniker": "Views\\Profile\\Public.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Profile\\Public.cshtml",
-              "RelativeToolTip": "Views\\Profile\\Public.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T13:15:40.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Albums.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Albums.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Albums.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Albums.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Albums.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T11:50:44.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Panel.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Panel.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Panel.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Panel.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Panel.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T10:42:33.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Users.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Users.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Users.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Admin\\Users.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Users.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T16:52:41.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T16:55:38.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Album\\Index.cshtml",
-              "ToolTip": "D:\\ETF\\II godina\\4 semestar\\OOAD\\Projekat\\Grupa6-Tim1\\Revalb v2.0\\REVALB - NAJNOVIJI\\Views\\Album\\Index.cshtml",
-              "RelativeToolTip": "Views\\Album\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T16:53:32.833Z"
             }
           ]
         }

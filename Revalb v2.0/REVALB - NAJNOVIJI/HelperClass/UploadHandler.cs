@@ -18,7 +18,7 @@
                 string fileName = Guid.NewGuid().ToString() + extension;
 
                 string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "uploads", subfolder);
-                Directory.CreateDirectory(uploadPath); // automatski kreira ako ne postoji
+                Directory.CreateDirectory(uploadPath); 
 
                 string fullPath = Path.Combine(uploadPath, fileName);
                 using var stream = new FileStream(fullPath, FileMode.Create);
@@ -32,6 +32,5 @@
                 return (false, "Exception: " + ex.Message);
             }
         }
-
     }
 }

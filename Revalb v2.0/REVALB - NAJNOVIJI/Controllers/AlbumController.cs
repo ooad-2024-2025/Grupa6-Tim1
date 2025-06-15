@@ -26,7 +26,7 @@ namespace REVALB.Controllers
         }
 
         // GET: /Album/
-        [Authorize(Roles = "Artist")]
+        [Authorize(Roles = "Artist, Admin")]
         public async Task<IActionResult> Index()
         {
             var user = await _userManager.GetUserAsync(User);
@@ -38,7 +38,7 @@ namespace REVALB.Controllers
         }
 
         // GET: /Album/Create
-        [Authorize(Roles = "Artist")]
+        [Authorize(Roles = "Artist, Admin")]
         public IActionResult Create()
         {
             var viewModel = new AlbumFormViewModel
@@ -53,7 +53,7 @@ namespace REVALB.Controllers
 
         //POST: /Album/Create
         [HttpPost]
-        [Authorize(Roles = "Artist")]
+        [Authorize(Roles = "Artist, Admin")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(AlbumFormViewModel model)
         {
@@ -117,7 +117,7 @@ namespace REVALB.Controllers
 
 
         // GET: /Album/Edit/5
-        [Authorize(Roles = "Artist")]
+        [Authorize(Roles = "Artist, Admin")]
         public async Task<IActionResult> Edit(int id)
         {
             var album = await _context.Albums.FindAsync(id);
@@ -134,7 +134,7 @@ namespace REVALB.Controllers
 
         // POST: /Album/Edit/5
         [HttpPost]
-        [Authorize(Roles = "Artist")]
+        [Authorize(Roles = "Artist, Admin")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Album album, IFormFile? CoverImageFile, DateTime? ReleaseDate)
         {
@@ -165,27 +165,12 @@ namespace REVALB.Controllers
             existing.Description = album.Description;
             existing.AudioPreviewURL = album.AudioPreviewURL;
 
-            /*
-            if (existing.ScheduledAlbum != null)
-            {
-                existing.ScheduledAlbum.ScheduledFor = ReleaseDate ?? DateTime.Now;
-
-            }
-            else
-            {
-                existing.ScheduledAlbum = new ScheduledAlbum
-                {
-                    ScheduledFor = album.ReleaseDate ?? DateTime.Now
-                };
-            }
-            */
-
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         // GET: /Album/Delete/5
-        [Authorize(Roles = "Artist")]
+        [Authorize(Roles = "Artist, Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             var album = await _context.Albums.FindAsync(id);
@@ -202,7 +187,7 @@ namespace REVALB.Controllers
 
         // POST: /Album/Delete/5
         [HttpPost, ActionName("Delete")]
-        [Authorize(Roles = "Artist")]
+        [Authorize(Roles = "Artist, Admin")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -280,7 +265,7 @@ namespace REVALB.Controllers
 
         //dodaj recenziju
         [HttpPost]
-        [Authorize(Roles = "User,Artist")]
+        [Authorize(Roles = "User,Artist,Admin")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddReview(ReviewFormViewModel model)
         {
@@ -289,7 +274,7 @@ namespace REVALB.Controllers
 
             var user = await _userManager.GetUserAsync(User);
 
-            // Jedna recenzija po korisniku po albumu
+            // jedna recenzija po korisniku po albumu
             bool alreadyExists = await _context.Reviews
                 .AnyAsync(r => r.AlbumId == model.AlbumId && r.UserId == user.Id);
 
@@ -307,13 +292,12 @@ namespace REVALB.Controllers
             _context.Reviews.Add(review);
             await _context.SaveChangesAsync();
 
-            // Ažuriraj AnalyticsData
+            // azuriraj AnalyticsData
             var analytics = await _context.AnalyticsData.FirstOrDefaultAsync(a => a.AlbumId == model.AlbumId);
             if (analytics != null)
             {
                 analytics.ReviewCount += 1;
 
-                // Ponovno izračunaj prosjek svih ocjena
                 var ratings = await _context.Reviews
                     .Where(r => r.AlbumId == model.AlbumId && r.Rating.HasValue)
                     .Select(r => r.Rating.Value)
@@ -329,7 +313,7 @@ namespace REVALB.Controllers
         }
         //dodaj komentar na recenziju
         [HttpPost]
-        [Authorize(Roles = "User,Artist")]
+        [Authorize(Roles = "User,Artist,Admin")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddComment(CommentFormViewModel model)
         {
@@ -365,7 +349,7 @@ namespace REVALB.Controllers
             if (album == null || user == null)
                 return NotFound();
 
-            // Provjera postoji li već veza
+            // provjera postoji li vec veza
             bool isFavorite = user.FavoriteAlbums.Any(a => a.Id == album.Id);
 
             if (isFavorite)
@@ -374,7 +358,7 @@ namespace REVALB.Controllers
             }
             else
             {
-                // Attach album ako treba
+                // attach album ako treba
                 if (_context.Entry(album).State == EntityState.Detached)
                     _context.Attach(album);
 
