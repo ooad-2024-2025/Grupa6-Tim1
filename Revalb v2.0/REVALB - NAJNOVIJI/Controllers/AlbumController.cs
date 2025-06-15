@@ -127,7 +127,7 @@ namespace REVALB.Controllers
 
             var user = await _userManager.GetUserAsync(User);
             if (album.ArtistId != user.Id)
-                return Forbid(); // zaštita: samo vlasnik može uređivati
+                return Forbid(); // zastita: samo vlasnik moze uredjivati
 
             return View(album);
         }
@@ -136,7 +136,7 @@ namespace REVALB.Controllers
         [HttpPost]
         [Authorize(Roles = "Artist, Admin")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, Album album, IFormFile? CoverImageFile, DateTime? ReleaseDate)
+        public async Task<IActionResult> Edit(int id, Album album, IFormFile? CoverImageFile)
         {
             if (id != album.Id)
                 return NotFound();

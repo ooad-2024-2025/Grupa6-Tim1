@@ -35,9 +35,9 @@
             @foreach (var review in Model.Reviews)
             {
                 <div class="list-group-item bg-light border rounded mb-2">
-                    <strong>@review.Album?.Title</strong>
+                    <strong class="text-black">@review.Album?.Title</strong>
                     <span class="badge bg-primary ms-2">Rating: @review.Rating</span>
-                    <p class="mb-0 mt-2">@review.Text</p>
+                    <p class="text-black mb-0 mt-2">@review.Text</p>
                 </div>
             }
         </div>

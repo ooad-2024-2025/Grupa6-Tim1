@@ -14,6 +14,7 @@ namespace REVALB.Models
         [Required]
         public string Description { get; set; }
 
+        [Required]
         [Display(Name = "Cover Image")]
         public IFormFile? CoverImageFile { get; set; }
 
