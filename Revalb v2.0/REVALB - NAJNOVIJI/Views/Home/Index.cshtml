@@ -1,32 +1,89 @@
-﻿@model REVALB.Models.ViewModels.AlbumFilterViewModel
+﻿@model REVALB.Models.ViewModels.FullHomeViewModel
 
 @{
     ViewData["Title"] = "Home";
 }
 
+<!-- NOVO: Chartovi i Vijesti -->
+
+
+<!-- TVOJE POSTOJEĆE OSTAVLJAM IDENTIČNO -->
 <div class="text-center mb-5">
     <h1 class="display-4 fw-bold">Discover Music You Love</h1>
     <p class="lead text-muted">Explore top rated albums and new releases</p>
     <a asp-controller="Home" asp-action="Ranking" class="btn btn-primary mt-3">🏆 Explore Top Albums</a>
 </div>
 
+<div class="container mb-5">
+
+    <!-- CHARTOVI -->
+    <div class="row">
+        <!-- Top Tracks -->
+        <div class="col-md-6 mb-4">
+            <h4>Top Tracks</h4>
+            <ul class="list-group">
+                @foreach (var track in Model.TopTracks)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        @track.Position. @track.Title
+                        <small class="text-muted">@track.Artist</small>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <!-- Top Artists -->
+        <div class="col-md-6 mb-4">
+            <h4>Top Artists</h4>
+            <ul class="list-group">
+                @foreach (var artist in Model.TopArtists)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        @artist.Position. @artist.Title
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+
+    <!-- VIJESTI -->
+    <div class="mt-5">
+        <h4>Latest Music News</h4>
+        <div class="row">
+            @foreach (var article in Model.News)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <img src="@(string.IsNullOrEmpty(article.ImageUrl) ? "https://via.placeholder.com/300x200" : article.ImageUrl)" class="card-img-top" style="object-fit:cover; height:200px;" />
+                        <div class="card-body">
+                            <h5 class="card-title">@article.Title</h5>
+                            <p class="card-text">@article.Description</p>
+                            <a href="@article.Url" class="btn btn-primary btn-sm" target="_blank">Read more</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+</div>
+
 <!-- Search + Filter -->
 <form method="get" class="mb-5">
     <div class="row g-2">
         <div class="col-md-5">
-            <input type="text" name="searchTerm" value="@Model.SearchTerm" class="form-control" placeholder="Search by title or description..." />
+            <input type="text" name="searchTerm" value="@Model.AlbumFilter.SearchTerm" class="form-control" placeholder="Search by title or description..." />
         </div>
         <div class="col-md-4">
             <select name="selectedCategoryId" id="selectedCategoryId" class="form-select">
                 <option value="">All genres</option>
-                @foreach (var category in Model.Categories)
+                @foreach (var category in Model.AlbumFilter.Categories)
                 {
-                    <option value="@category.Value" selected="@(Model.SelectedCategoryId?.ToString() == category.Value)">
+                    <option value="@category.Value" selected="@(Model.AlbumFilter.SelectedCategoryId?.ToString() == category.Value)">
                         @category.Text
                     </option>
                 }
             </select>
-
         </div>
         <div class="col-md-3">
             <button type="submit" class="btn btn-outline-primary w-100">Search</button>
@@ -37,7 +94,7 @@
 <!-- Album Cards -->
 <section class="container py-3">
     <div class="row g-4">
-        @foreach (var album in Model.Albums)
+        @foreach (var album in Model.AlbumFilter.Albums)
         {
             <div class="col-md-6 col-lg-4">
                 <div class="card shadow-sm h-100">

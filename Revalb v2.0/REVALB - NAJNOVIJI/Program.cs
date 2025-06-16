@@ -2,8 +2,11 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using REVALB.Data;
 using REVALB.Models;
+using Revalb.Services;
+using REVALB.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddHttpClient<MusicNewsService>();
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
@@ -30,6 +33,7 @@ builder.Services.AddIdentity<User, IdentityRole<int>>(options =>
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+builder.Services.AddHttpClient<LastFmService>();
 
 var app = builder.Build();
 

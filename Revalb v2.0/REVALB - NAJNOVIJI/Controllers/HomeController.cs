@@ -3,10 +3,11 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using NuGet.Protocol.Plugins;
 using REVALB.Data;
 using REVALB.Models;
 using REVALB.Models.ViewModels;
+using Revalb.Services;
+using REVALB.Services;
 
 namespace REVALB.Controllers
 {
@@ -14,12 +15,21 @@ namespace REVALB.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly ApplicationDbContext _context;
+        private readonly LastFmService _lastFmService;
+        private readonly MusicNewsService _musicNewsService;
 
-        public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
+        public HomeController(
+            ILogger<HomeController> logger,
+            ApplicationDbContext context,
+            LastFmService lastFmService,
+            MusicNewsService musicNewsService)
         {
             _logger = logger;
             _context = context;
+            _lastFmService = lastFmService;
+            _musicNewsService = musicNewsService;
         }
+
         [AllowAnonymous]
         public async Task<IActionResult> Index(string? searchTerm, int? selectedCategoryId)
         {
@@ -33,34 +43,38 @@ namespace REVALB.Controllers
             if (!string.IsNullOrWhiteSpace(searchTerm))
             {
                 albumsQuery = albumsQuery.Where(a =>
-                    a.Title.Contains(searchTerm) ||
-                    a.Description.Contains(searchTerm));
+                    a.Title.Contains(searchTerm) || a.Description.Contains(searchTerm));
             }
 
             if (selectedCategoryId.HasValue)
             {
-                albumsQuery = albumsQuery.Where(a =>
-                    a.Categories.Any(c => c.Id == selectedCategoryId.Value));
+                albumsQuery = albumsQuery.Where(a => a.Categories.Any(c => c.Id == selectedCategoryId.Value));
             }
 
-            var albums = await albumsQuery
-                .OrderByDescending(a => a.ScheduledAlbum.ScheduledFor)
-                .ToListAsync();
+            var albums = await albumsQuery.OrderByDescending(a => a.ScheduledAlbum.ScheduledFor).ToListAsync();
 
-            var viewModel = new AlbumFilterViewModel
+            var albumFilter = new AlbumFilterViewModel
             {
                 SearchTerm = searchTerm,
                 SelectedCategoryId = selectedCategoryId,
                 Categories = await _context.Categories
-                    .Select(c => new SelectListItem
-                    {
-                        Value = c.Id.ToString(),
-                        Text = c.Name
-                    }).ToListAsync(),
+                    .Select(c => new SelectListItem { Value = c.Id.ToString(), Text = c.Name }).ToListAsync(),
                 Albums = albums
             };
 
-            return View(viewModel);
+            var tracks = await _lastFmService.GetTopTracksAsync();
+            var artists = await _lastFmService.GetTopArtistsAsync();
+            var news = await _musicNewsService.GetMusicNewsAsync();
+
+            var fullModel = new FullHomeViewModel
+            {
+                AlbumFilter = albumFilter,
+                TopTracks = tracks,
+                TopArtists = artists,
+                News = news
+            };
+
+            return View(fullModel);
         }
 
         public IActionResult Privacy()
@@ -73,6 +87,7 @@ namespace REVALB.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
         [AllowAnonymous]
         public async Task<IActionResult> Ranking()
         {
@@ -84,11 +99,10 @@ namespace REVALB.Controllers
                 .Where(a => a.ScheduledAlbum == null || a.ScheduledAlbum.ScheduledFor.Date <= DateTime.Today)
                 .OrderByDescending(a => a.AnalyticsData.AverageRating)
                 .ThenByDescending(a => a.AnalyticsData.ReviewCount)
-                .Take(10) // top 10 albuma
+                .Take(10)
                 .ToListAsync();
 
             return View(topAlbums);
         }
-
     }
 }
