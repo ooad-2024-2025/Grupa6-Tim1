@@ -77,28 +77,6 @@ using (var scope = app.Services.CreateScope())
         }
     }
 
-    // admin
-    string adminEmail = "admin@example.com";
-    string adminPassword = "Admin123!";
-
-    var existingAdmin = await userManager.FindByEmailAsync(adminEmail);
-    if (existingAdmin == null)
-    {
-        var adminUser = new User
-        {
-            UserName = adminEmail,
-            Email = adminEmail,
-            EmailConfirmed = true,
-            CreatedAt = DateTime.UtcNow
-        };
-
-        var result = await userManager.CreateAsync(adminUser, adminPassword);
-        if (result.Succeeded)
-        {
-            await userManager.AddToRoleAsync(adminUser, "Admin");
-        }
-    }
-
     var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
 
     if (!db.Categories.Any())

@@ -34,6 +34,7 @@ namespace REVALB.Controllers
 
             var userRoles = await _userManager.GetRolesAsync(user);
             var isArtist = userRoles.Contains("Artist");
+            var isUser = userRoles.Contains("User");
 
             List<Album>? userAlbums = null;
 
@@ -46,9 +47,11 @@ namespace REVALB.Controllers
 
             ViewBag.IsArtist = isArtist;
             ViewBag.UserAlbums = userAlbums;
+            ViewBag.IsUser = isUser;
 
             return View(user);
         }
+
         [HttpGet("Profile/User/{id}")]
         [AllowAnonymous]
         public async Task<IActionResult> PublicProfile(int id)

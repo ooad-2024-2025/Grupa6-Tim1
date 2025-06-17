@@ -121,7 +121,7 @@ namespace REVALB.Areas.Identity.Pages.Account
 
                 if (result.Succeeded)
                 {
-
+                    /*
                     // dodano za testiranje:
                     if (Input.Email.Contains("artist"))
                     {
@@ -131,7 +131,8 @@ namespace REVALB.Areas.Identity.Pages.Account
                     {
                         await _userManager.AddToRoleAsync(user, "User");
                     }
-                    //await _userManager.AddToRoleAsync(user, "User");
+                    */
+                    await _userManager.AddToRoleAsync(user, "User");
                     _logger.LogInformation("User created a new account with password.");
 
                     var userId = await _userManager.GetUserIdAsync(user);
@@ -161,7 +162,6 @@ namespace REVALB.Areas.Identity.Pages.Account
                 }
             }
 
-            // If we got this far, something failed, redisplay form
             return Page();
         }
 
