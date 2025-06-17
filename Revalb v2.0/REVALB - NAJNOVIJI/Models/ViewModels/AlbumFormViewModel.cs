@@ -8,7 +8,7 @@ namespace REVALB.Models
         public int? Id { get; set; }
 
         [Required]
-        [RegularExpression(@"[ |a-z|A-Z|0-9|!\$]*", ErrorMessage = "Only aplhanumerical and ! $ characters are allowed!")]
+        [RegularExpression(@"[ |a-z|A-Z|0-9|!\$()&]*", ErrorMessage = "Only aplhanumerical and ! $ characters are allowed!")]
         public string Title { get; set; }
 
         [Required]
