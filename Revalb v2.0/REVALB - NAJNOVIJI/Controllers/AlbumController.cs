@@ -201,6 +201,7 @@ namespace REVALB.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        /*
         //Details
         [AllowAnonymous]
         public async Task<IActionResult> Details(int id)
@@ -241,8 +242,6 @@ namespace REVALB.Controllers
                 bool isFavorited = user.FavoriteAlbums.Any(f => f.Id == album.Id);
                 ViewBag.IsFavorited = isFavorited;
 
-
-
                 var userIdString = _userManager.GetUserId(User);
 
                 int userId = 0;
@@ -255,10 +254,66 @@ namespace REVALB.Controllers
 
                 ViewBag.IsArtist = isArtist;
 
-
             }
 
             ViewBag.UserAlreadyReviewed = userAlreadyReviewed;
+
+            return View(album);
+        }
+        */
+
+
+        [AllowAnonymous]
+        public async Task<IActionResult> Details(int id)
+        {
+            var album = await _context.Albums
+                .Include(a => a.Artist)
+                .Include(a => a.ScheduledAlbum)
+                .Include(a => a.Categories)
+                .Include(a => a.Reviews)
+                    .ThenInclude(r => r.User)
+                .Include(a => a.Reviews)
+                    .ThenInclude(r => r.Comments)
+                        .ThenInclude(c => c.User)
+                .FirstOrDefaultAsync(a => a.Id == id);
+
+            if (album == null)
+                return NotFound();
+
+            // Update analytics
+            var analytics = await _context.AnalyticsData.FirstOrDefaultAsync(a => a.AlbumId == album.Id);
+            if (analytics != null)
+            {
+                analytics.ClickCount += 1;
+                await _context.SaveChangesAsync();
+            }
+
+            // Default vrijednosti
+            ViewBag.UserAlreadyReviewed = false;
+            ViewBag.IsFavorited = false;
+            ViewBag.IsArtist = false;
+
+            // Ako je korisnik prijavljen
+            if (User.Identity?.IsAuthenticated == true)
+            {
+                var user = await _userManager.Users
+                    .Include(u => u.FavoriteAlbums)
+                    .FirstOrDefaultAsync(u => u.UserName == User.Identity.Name);
+
+                if (user != null)
+                {
+                    ViewBag.UserAlreadyReviewed = album.Reviews != null &&
+                        album.Reviews.Any(r => r.UserId == user.Id);
+
+                    ViewBag.IsFavorited = user.FavoriteAlbums.Any(f => f.Id == album.Id);
+
+                    var userIdString = _userManager.GetUserId(User);
+                    if (int.TryParse(userIdString, out int userId))
+                    {
+                        ViewBag.IsArtist = album.ArtistId == userId;
+                    }
+                }
+            }
 
             return View(album);
         }

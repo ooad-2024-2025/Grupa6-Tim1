@@ -1,6 +1,9 @@
 ﻿@model REVALB.Models.Album
-
-
+@inject UserManager<User> UserManager
+@using Microsoft.AspNetCore.Identity
+@{
+    var currentUser = await UserManager.GetUserAsync(User);
+}
 <style>
     .star-rating {
         direction: rtl;
@@ -89,7 +92,7 @@
                 </div>
             }
 
-            @if (User.Identity?.IsAuthenticated == true)
+            @if (currentUser != null)
             {
                 <form asp-controller="Album" asp-action="ToggleFavorite" method="post" class="mt-4">
                     @Html.AntiForgeryToken()
@@ -105,7 +108,7 @@
     <hr class="my-5" />
     <h3 class="mb-4">Reviews</h3>
 
-    @if (User.Identity?.IsAuthenticated == true)
+    @if (currentUser != null)
     {
         if ((bool)ViewBag.UserAlreadyReviewed)
         {
@@ -189,7 +192,7 @@
                         </div>
                     }
 
-                    @if (User.Identity?.IsAuthenticated == true)
+                    @if (currentUser != null)
                     {
                         <form asp-action="AddComment" method="post" class="mt-2">
                             <input type="hidden" name="ReviewId" value="@review.Id" />
