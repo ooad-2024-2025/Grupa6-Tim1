@@ -4,6 +4,10 @@
 
 
 [Prototip stranice](https://www.figma.com/proto/4OfDm7QqMRskeZPmF8v8lC/Revalb---prototype?node-id=0-1&t=f2jpIWkEVmT49cF4-1)
+[Link na stranicu](hramic1-001-site1.mtempurl.com)
+#Pristupne info:
+username: 11248086
+password: 60-dayfreetrial
 
 U digitalnoj eri muzike, Revalb je inovativna web platforma koja mijenja način na koji umjetnici i publika komuniciraju. Dizajniran kao prostor za recenziju muzičkih albuma, Revalb povezuje muzičare, slušaoce i kritičare u dinamičnom i intuitivnom okruženju.
 
